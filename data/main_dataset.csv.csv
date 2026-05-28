@@ -1,0 +1,1001 @@
+commodity_name,state,district,market,min_price,max_price,modal_price,price_date,year,month,season,latitude,longitude
+Methi+Seeds,Madhya Pradesh,Ratlam,A lot,54,61,57,2021-04-13,2021,4,Zaid,23.3338,75.0385
+Soyabean,Madhya Pradesh,Ratlam,A lot,62,75,74,2021-07-11,2021,7,Kharif,23.3338,75.0385
+Garlic,Madhya Pradesh,Ratlam,A lot,34,87,66,2021-07-11,2021,7,Kharif,23.3338,75.0385
+Groundnut,Maharashtra,Yavatmal,Aarni,58,63,61,2019-07-09,2019,7,Kharif,20.3888,78.1204
+Soyabean,Maharashtra,Yavatmal,Aarni,72,76,74,2021-05-06,2021,5,Zaid,20.3888,78.1204
+Goat,Maharashtra,Sangli,Aatpadi,30,160,95,2019-05-25,2019,5,Zaid,16.8667,74.5667
+Hen,Maharashtra,Sangli,Aatpadi,2,3,2,2019-05-25,2019,5,Zaid,16.8667,74.5667
+Sheep,Maharashtra,Sangli,Aatpadi,25,135,80,2019-05-25,2019,5,Zaid,16.8667,74.5667
+Goat,Maharashtra,Sangli,Aatpadi,30,150,90,2019-06-15,2019,6,Kharif,16.8667,74.5667
+Sheep,Maharashtra,Sangli,Aatpadi,25,125,75,2019-06-15,2019,6,Kharif,16.8667,74.5667
+Goat,Maharashtra,Sangli,Aatpadi,30,170,100,2019-06-22,2019,6,Kharif,16.8667,74.5667
+Pomegranate,Maharashtra,Sangli,Aatpadi,10,105,57,2019-07-21,2019,7,Kharif,16.8667,74.5667
+Sheep,Maharashtra,Sangli,Aatpadi,25,165,95,2019-08-10,2019,8,Kharif,16.8667,74.5667
+Goat,Maharashtra,Sangli,Aatpadi,40,160,100,2019-07-27,2019,7,Kharif,16.8667,74.5667
+Sheep,Maharashtra,Sangli,Aatpadi,25,145,85,2019-08-17,2019,8,Kharif,16.8667,74.5667
+Egg,Maharashtra,Sangli,Aatpadi,0,0,0,2019-08-31,2019,8,Kharif,16.8667,74.5667
+Egg,Maharashtra,Sangli,Aatpadi,0,0,0,2019-12-14,2019,12,Rabi,16.8667,74.5667
+Pomegranate,Maharashtra,Sangli,Aatpadi,20,310,165,2021-03-05,2021,3,Rabi,16.8667,74.5667
+Apple,Punjab,Fazilka,Abohar,98,98,98,2019-06-10,2019,6,Kharif,30.4018,74.0226
+Grapes,Punjab,Fazilka,Abohar,13,64,64,2019-06-10,2019,6,Kharif,30.4018,74.0226
+Litchi,Punjab,Fazilka,Abohar,48,56,56,2019-06-10,2019,6,Kharif,30.4018,74.0226
+Apple,Punjab,Fazilka,Abohar,107,107,107,2019-07-05,2019,7,Kharif,30.4018,74.0226
+Apple,Punjab,Fazilka,Abohar,58,110,110,2019-06-11,2019,6,Kharif,30.4018,74.0226
+Garlic,Punjab,Fazilka,Abohar,0,0,90,2019-06-11,2019,6,Kharif,30.4018,74.0226
+Litchi,Punjab,Fazilka,Abohar,57,81,76,2019-06-11,2019,6,Kharif,30.4018,74.0226
+Apple,Punjab,Fazilka,Abohar,44,99,99,2019-06-13,2019,6,Kharif,30.4018,74.0226
+Litchi,Punjab,Fazilka,Abohar,74,75,75,2019-06-13,2019,6,Kharif,30.4018,74.0226
+Apple,Punjab,Fazilka,Abohar,47,107,100,2019-06-14,2019,6,Kharif,30.4018,74.0226
+Litchi,Punjab,Fazilka,Abohar,0,0,67,2019-06-14,2019,6,Kharif,30.4018,74.0226
+Garlic,Punjab,Fazilka,Abohar,50,70,56,2019-07-03,2019,7,Kharif,30.4018,74.0226
+Apple,Punjab,Fazilka,Abohar,100,121,121,2019-06-18,2019,6,Kharif,30.4018,74.0226
+Litchi,Punjab,Fazilka,Abohar,56,65,61,2019-06-18,2019,6,Kharif,30.4018,74.0226
+Apple,Punjab,Fazilka,Abohar,0,0,101,2019-06-21,2019,6,Kharif,30.4018,74.0226
+Apple,Punjab,Fazilka,Abohar,0,0,102,2019-06-19,2019,6,Kharif,30.4018,74.0226
+Litchi,Punjab,Fazilka,Abohar,47,68,68,2019-06-19,2019,6,Kharif,30.4018,74.0226
+Apple,Punjab,Fazilka,Abohar,35,109,105,2019-07-03,2019,7,Kharif,30.4018,74.0226
+Grapes,Punjab,Fazilka,Abohar,0,0,150,2019-07-23,2019,7,Kharif,30.4018,74.0226
+Garlic,Punjab,Fazilka,Abohar,55,82,70,2019-07-19,2019,7,Kharif,30.4018,74.0226
+Garlic,Punjab,Fazilka,Abohar,50,74,67,2019-07-05,2019,7,Kharif,30.4018,74.0226
+Garlic,Punjab,Fazilka,Abohar,46,60,57,2019-07-22,2019,7,Kharif,30.4018,74.0226
+Peas+cod,Punjab,Fazilka,Abohar,26,72,68,2019-07-22,2019,7,Kharif,30.4018,74.0226
+Garlic,Punjab,Fazilka,Abohar,61,75,69,2019-07-31,2019,7,Kharif,30.4018,74.0226
+Peas+cod,Punjab,Fazilka,Abohar,45,63,63,2019-08-09,2019,8,Kharif,30.4018,74.0226
+Grapes,Punjab,Fazilka,Abohar,0,0,129,2019-08-06,2019,8,Kharif,30.4018,74.0226
+Pomegranate,Punjab,Fazilka,Abohar,75,81,80,2019-08-06,2019,8,Kharif,30.4018,74.0226
+Grapes,Punjab,Fazilka,Abohar,0,0,184,2019-08-20,2019,8,Kharif,30.4018,74.0226
+Mango,Punjab,Fazilka,Abohar,0,0,78,2019-08-27,2019,8,Kharif,30.4018,74.0226
+Peas+cod,Punjab,Fazilka,Abohar,55,68,59,2019-08-13,2019,8,Kharif,30.4018,74.0226
+Plum,Punjab,Fazilka,Abohar,0,0,100,2019-08-26,2019,8,Kharif,30.4018,74.0226
+Plum,Punjab,Fazilka,Abohar,0,0,75,2019-08-20,2019,8,Kharif,30.4018,74.0226
+Pomegranate,Punjab,Fazilka,Abohar,60,75,70,2019-08-20,2019,8,Kharif,30.4018,74.0226
+Plum,Punjab,Fazilka,Abohar,0,0,70,2019-08-19,2019,8,Kharif,30.4018,74.0226
+Mango,Punjab,Fazilka,Abohar,0,0,93,2019-09-02,2019,9,Kharif,30.4018,74.0226
+Garlic,Punjab,Fazilka,Abohar,25,90,73,2019-09-03,2019,9,Kharif,30.4018,74.0226
+Coriander(Leaves),Punjab,Fazilka,Abohar,128,151,144,2019-10-12,2019,10,Kharif,30.4018,74.0226
+Mango,Punjab,Fazilka,Abohar,0,0,67,2019-08-26,2019,8,Kharif,30.4018,74.0226
+Grapes,Punjab,Fazilka,Abohar,0,0,160,2019-08-27,2019,8,Kharif,30.4018,74.0226
+Garlic,Punjab,Fazilka,Abohar,60,99,70,2019-09-18,2019,9,Kharif,30.4018,74.0226
+Grapes,Punjab,Fazilka,Abohar,0,0,100,2019-09-18,2019,9,Kharif,30.4018,74.0226
+Pomegranate,Punjab,Fazilka,Abohar,68,71,71,2019-09-18,2019,9,Kharif,30.4018,74.0226
+Plum,Punjab,Fazilka,Abohar,33,75,59,2019-08-27,2019,8,Kharif,30.4018,74.0226
+Grapes,Punjab,Fazilka,Abohar,0,0,85,2019-09-02,2019,9,Kharif,30.4018,74.0226
+Grapes,Punjab,Fazilka,Abohar,0,0,147,2019-08-30,2019,8,Kharif,30.4018,74.0226
+Mango,Punjab,Fazilka,Abohar,0,0,76,2019-08-30,2019,8,Kharif,30.4018,74.0226
+Pomegranate,Punjab,Fazilka,Abohar,0,0,75,2019-09-26,2019,9,Kharif,30.4018,74.0226
+Grapes,Punjab,Fazilka,Abohar,0,0,70,2019-09-26,2019,9,Kharif,30.4018,74.0226
+Tinda,Punjab,Fazilka,Abohar,0,0,78,2019-10-09,2019,10,Kharif,30.4018,74.0226
+Pomegranate,Punjab,Fazilka,Abohar,60,96,77,2019-09-03,2019,9,Kharif,30.4018,74.0226
+Pomegranate,Punjab,Fazilka,Abohar,39,86,73,2019-09-11,2019,9,Kharif,30.4018,74.0226
+Peas+cod,Punjab,Fazilka,Abohar,106,125,125,2019-09-26,2019,9,Kharif,30.4018,74.0226
+Plum,Punjab,Fazilka,Abohar,0,0,95,2019-09-11,2019,9,Kharif,30.4018,74.0226
+Grapes,Punjab,Fazilka,Abohar,79,105,80,2019-10-15,2019,10,Kharif,30.4018,74.0226
+Mango,Punjab,Fazilka,Abohar,40,85,85,2019-10-15,2019,10,Kharif,30.4018,74.0226
+Peas+cod,Punjab,Fazilka,Abohar,52,73,64,2019-10-15,2019,10,Kharif,30.4018,74.0226
+Pomegranate,Punjab,Fazilka,Abohar,43,74,74,2019-10-15,2019,10,Kharif,30.4018,74.0226
+Garlic,Punjab,Fazilka,Abohar,100,175,165,2019-10-15,2019,10,Kharif,30.4018,74.0226
+Ginger(Dry),Punjab,Fazilka,Abohar,64,74,74,2019-10-15,2019,10,Kharif,30.4018,74.0226
+Pomegranate,Punjab,Fazilka,Abohar,85,110,85,2019-09-25,2019,9,Kharif,30.4018,74.0226
+Coriander(Leaves),Punjab,Fazilka,Abohar,53,74,64,2019-10-22,2019,10,Kharif,30.4018,74.0226
+Garlic,Punjab,Fazilka,Abohar,120,150,131,2019-10-25,2019,10,Kharif,30.4018,74.0226
+Grapes,Punjab,Fazilka,Abohar,0,0,120,2019-10-25,2019,10,Kharif,30.4018,74.0226
+Garlic,Punjab,Fazilka,Abohar,64,65,64,2019-09-25,2019,9,Kharif,30.4018,74.0226
+Grapes,Punjab,Fazilka,Abohar,70,109,108,2019-09-25,2019,9,Kharif,30.4018,74.0226
+Peas+cod,Punjab,Fazilka,Abohar,0,0,62,2019-10-25,2019,10,Kharif,30.4018,74.0226
+Mango,Punjab,Fazilka,Abohar,0,0,120,2019-09-25,2019,9,Kharif,30.4018,74.0226
+Garlic,Punjab,Fazilka,Abohar,60,130,105,2019-09-26,2019,9,Kharif,30.4018,74.0226
+Plum,Punjab,Fazilka,Abohar,0,0,82,2019-10-21,2019,10,Kharif,30.4018,74.0226
+Pomegranate,Punjab,Fazilka,Abohar,0,0,72,2019-10-21,2019,10,Kharif,30.4018,74.0226
+Coriander(Leaves),Punjab,Fazilka,Abohar,0,0,167,2019-10-15,2019,10,Kharif,30.4018,74.0226
+Grapes,Punjab,Fazilka,Abohar,0,0,83,2019-10-18,2019,10,Kharif,30.4018,74.0226
+Plum,Punjab,Fazilka,Abohar,0,0,115,2019-11-25,2019,11,Rabi,30.4018,74.0226
+Capsicum,Punjab,Fazilka,Abohar,0,0,63,2019-10-15,2019,10,Kharif,30.4018,74.0226
+Garlic,Punjab,Fazilka,Abohar,50,160,100,2019-12-03,2019,12,Rabi,30.4018,74.0226
+Plum,Punjab,Fazilka,Abohar,0,0,92,2019-09-14,2019,9,Kharif,30.4018,74.0226
+Pomegranate,Punjab,Fazilka,Abohar,31,92,80,2019-09-14,2019,9,Kharif,30.4018,74.0226
+Grapes,Punjab,Fazilka,Abohar,0,0,88,2019-09-06,2019,9,Kharif,30.4018,74.0226
+Peas+cod,Punjab,Fazilka,Abohar,0,0,66,2019-09-06,2019,9,Kharif,30.4018,74.0226
+Pomegranate,Punjab,Fazilka,Abohar,65,98,73,2019-09-06,2019,9,Kharif,30.4018,74.0226
+Grapes,Punjab,Fazilka,Abohar,50,120,120,2019-09-11,2019,9,Kharif,30.4018,74.0226
+Mango,Punjab,Fazilka,Abohar,0,0,86,2019-10-21,2019,10,Kharif,30.4018,74.0226
+Garlic,Punjab,Fazilka,Abohar,0,0,100,2019-11-28,2019,11,Rabi,30.4018,74.0226
+Garlic,Punjab,Fazilka,Abohar,80,160,144,2019-10-18,2019,10,Kharif,30.4018,74.0226
+Ginger(Dry),Punjab,Fazilka,Abohar,0,0,59,2019-10-18,2019,10,Kharif,30.4018,74.0226
+Pomegranate,Punjab,Fazilka,Abohar,50,61,61,2019-10-12,2019,10,Kharif,30.4018,74.0226
+Grapes,Punjab,Fazilka,Abohar,0,0,129,2019-09-21,2019,9,Kharif,30.4018,74.0226
+Peas+cod,Punjab,Fazilka,Abohar,69,75,69,2019-10-12,2019,10,Kharif,30.4018,74.0226
+Grapes,Punjab,Fazilka,Abohar,0,0,100,2019-09-24,2019,9,Kharif,30.4018,74.0226
+Plum,Punjab,Fazilka,Abohar,0,0,110,2019-11-28,2019,11,Rabi,30.4018,74.0226
+Pomegranate,Punjab,Fazilka,Abohar,80,96,80,2019-09-21,2019,9,Kharif,30.4018,74.0226
+Mango,Punjab,Fazilka,Abohar,0,0,100,2019-09-24,2019,9,Kharif,30.4018,74.0226
+Garlic,Punjab,Fazilka,Abohar,70,75,70,2019-09-21,2019,9,Kharif,30.4018,74.0226
+Garlic,Punjab,Fazilka,Abohar,80,150,115,2019-10-04,2019,10,Kharif,30.4018,74.0226
+Ginger(Dry),Punjab,Fazilka,Abohar,55,82,82,2019-10-04,2019,10,Kharif,30.4018,74.0226
+Mango,Punjab,Fazilka,Abohar,73,100,80,2019-10-04,2019,10,Kharif,30.4018,74.0226
+Methi(Leaves),Punjab,Fazilka,Abohar,0,0,63,2019-10-04,2019,10,Kharif,30.4018,74.0226
+Pomegranate,Punjab,Fazilka,Abohar,75,85,85,2019-10-04,2019,10,Kharif,30.4018,74.0226
+Coriander(Leaves),Punjab,Fazilka,Abohar,101,143,131,2019-10-09,2019,10,Kharif,30.4018,74.0226
+Garlic,Punjab,Fazilka,Abohar,100,155,140,2019-10-09,2019,10,Kharif,30.4018,74.0226
+Grapes,Punjab,Fazilka,Abohar,114,115,115,2019-10-09,2019,10,Kharif,30.4018,74.0226
+Mango,Punjab,Fazilka,Abohar,0,0,98,2019-10-09,2019,10,Kharif,30.4018,74.0226
+Peas+cod,Punjab,Fazilka,Abohar,0,0,78,2019-10-09,2019,10,Kharif,30.4018,74.0226
+Pomegranate,Punjab,Fazilka,Abohar,0,0,80,2019-10-09,2019,10,Kharif,30.4018,74.0226
+Capsicum,Punjab,Fazilka,Abohar,50,62,62,2019-10-07,2019,10,Kharif,30.4018,74.0226
+Garlic,Punjab,Fazilka,Abohar,100,125,120,2019-10-07,2019,10,Kharif,30.4018,74.0226
+Grapes,Punjab,Fazilka,Abohar,128,130,130,2019-10-07,2019,10,Kharif,30.4018,74.0226
+Mango,Punjab,Fazilka,Abohar,0,0,98,2019-10-07,2019,10,Kharif,30.4018,74.0226
+Pomegranate,Punjab,Fazilka,Abohar,69,80,70,2019-10-07,2019,10,Kharif,30.4018,74.0226
+Grapes,Punjab,Fazilka,Abohar,70,144,120,2019-10-21,2019,10,Kharif,30.4018,74.0226
+Garlic,Punjab,Fazilka,Abohar,66,150,115,2019-10-21,2019,10,Kharif,30.4018,74.0226
+Ginger(Dry),Punjab,Fazilka,Abohar,64,75,64,2019-10-21,2019,10,Kharif,30.4018,74.0226
+Garlic,Punjab,Fazilka,Abohar,110,195,156,2019-10-12,2019,10,Kharif,30.4018,74.0226
+Coriander(Leaves),Punjab,Fazilka,Abohar,94,113,100,2019-10-21,2019,10,Kharif,30.4018,74.0226
+Coriander(Leaves),Punjab,Fazilka,Abohar,94,131,108,2019-10-18,2019,10,Kharif,30.4018,74.0226
+Garlic,Punjab,Fazilka,Abohar,100,164,122,2019-10-22,2019,10,Kharif,30.4018,74.0226
+Garlic,Punjab,Fazilka,Abohar,62,110,97,2019-11-14,2019,11,Rabi,30.4018,74.0226
+Ginger(Dry),Punjab,Fazilka,Abohar,52,65,61,2019-11-14,2019,11,Rabi,30.4018,74.0226
+Grapes,Punjab,Fazilka,Abohar,60,161,161,2019-11-14,2019,11,Rabi,30.4018,74.0226
+Plum,Punjab,Fazilka,Abohar,60,107,107,2019-11-14,2019,11,Rabi,30.4018,74.0226
+Pomegranate,Punjab,Fazilka,Abohar,61,104,80,2019-11-14,2019,11,Rabi,30.4018,74.0226
+Garlic,Punjab,Fazilka,Abohar,69,156,69,2019-11-07,2019,11,Rabi,30.4018,74.0226
+Grapes,Punjab,Fazilka,Abohar,0,0,78,2019-11-07,2019,11,Rabi,30.4018,74.0226
+Peas+cod,Punjab,Fazilka,Abohar,34,61,57,2019-11-07,2019,11,Rabi,30.4018,74.0226
+Garlic,Punjab,Fazilka,Abohar,50,117,100,2019-12-13,2019,12,Rabi,30.4018,74.0226
+Grapes,Punjab,Fazilka,Abohar,80,90,90,2019-12-13,2019,12,Rabi,30.4018,74.0226
+Pomegranate,Punjab,Fazilka,Abohar,0,0,70,2019-12-13,2019,12,Rabi,30.4018,74.0226
+Mango,Punjab,Fazilka,Abohar,0,0,90,2019-12-03,2019,12,Rabi,30.4018,74.0226
+Grapes,Punjab,Fazilka,Abohar,63,100,67,2019-11-18,2019,11,Rabi,30.4018,74.0226
+Ginger(Dry),Punjab,Fazilka,Abohar,53,64,61,2019-12-02,2019,12,Rabi,30.4018,74.0226
+Pomegranate,Punjab,Fazilka,Abohar,45,74,74,2019-12-02,2019,12,Rabi,30.4018,74.0226
+Garlic,Punjab,Fazilka,Abohar,100,141,108,2019-11-25,2019,11,Rabi,30.4018,74.0226
+Ginger(Dry),Punjab,Fazilka,Abohar,58,67,66,2019-11-25,2019,11,Rabi,30.4018,74.0226
+Grapes,Punjab,Fazilka,Abohar,70,209,130,2019-11-25,2019,11,Rabi,30.4018,74.0226
+Ginger(Dry),Punjab,Fazilka,Abohar,65,72,66,2019-12-06,2019,12,Rabi,30.4018,74.0226
+Pomegranate,Punjab,Fazilka,Abohar,30,69,69,2019-12-06,2019,12,Rabi,30.4018,74.0226
+Garlic,Punjab,Fazilka,Abohar,90,136,119,2019-12-06,2019,12,Rabi,30.4018,74.0226
+Grapes,Punjab,Fazilka,Abohar,25,80,80,2019-12-16,2019,12,Rabi,30.4018,74.0226
+Garlic,Punjab,Fazilka,Abohar,45,123,120,2019-12-16,2019,12,Rabi,30.4018,74.0226
+Grapes,Punjab,Fazilka,Abohar,50,220,200,2019-12-03,2019,12,Rabi,30.4018,74.0226
+Ginger(Dry),Punjab,Fazilka,Abohar,57,65,61,2019-12-03,2019,12,Rabi,30.4018,74.0226
+Ginger(Dry),Punjab,Fazilka,Abohar,63,70,63,2019-12-09,2019,12,Rabi,30.4018,74.0226
+Ginger(Dry),Punjab,Fazilka,Abohar,46,66,59,2019-12-31,2019,12,Rabi,30.4018,74.0226
+Garlic,Punjab,Fazilka,Abohar,100,140,140,2019-12-31,2019,12,Rabi,30.4018,74.0226
+Apple,Punjab,Fazilka,Abohar,46,76,76,2019-12-26,2019,12,Rabi,30.4018,74.0226
+Garlic,Punjab,Fazilka,Abohar,37,137,100,2019-12-26,2019,12,Rabi,30.4018,74.0226
+Apple,Punjab,Fazilka,Abohar,0,0,62,2019-12-31,2019,12,Rabi,30.4018,74.0226
+Mango,Punjab,Fazilka,Abohar,70,70,70,2021-03-03,2021,3,Rabi,30.4018,74.0226
+Grapes,Punjab,Fazilka,Abohar,33,76,56,2021-04-20,2021,4,Zaid,30.4018,74.0226
+Orange,Punjab,Fazilka,Abohar,65,79,68,2021-04-07,2021,4,Zaid,30.4018,74.0226
+Pomegranate,Punjab,Fazilka,Abohar,76,120,85,2021-05-28,2021,5,Zaid,30.4018,74.0226
+Pomegranate,Punjab,Fazilka,Abohar,37,89,66,2021-03-08,2021,3,Rabi,30.4018,74.0226
+Mango,Punjab,Fazilka,Abohar,55,76,70,2021-04-07,2021,4,Zaid,30.4018,74.0226
+Grapes,Punjab,Fazilka,Abohar,79,105,98,2021-05-26,2021,5,Zaid,30.4018,74.0226
+Litchi,Punjab,Fazilka,Abohar,75,95,86,2021-05-26,2021,5,Zaid,30.4018,74.0226
+Mousambi(Sweet+Lime),Punjab,Fazilka,Abohar,75,88,80,2021-05-26,2021,5,Zaid,30.4018,74.0226
+Pomegranate,Punjab,Fazilka,Abohar,75,99,89,2021-05-26,2021,5,Zaid,30.4018,74.0226
+Apple,Punjab,Fazilka,Abohar,86,201,103,2021-05-26,2021,5,Zaid,30.4018,74.0226
+Mango,Punjab,Fazilka,Abohar,77,89,80,2021-03-08,2021,3,Rabi,30.4018,74.0226
+Orange,Punjab,Fazilka,Abohar,75,75,75,2021-03-22,2021,3,Rabi,30.4018,74.0226
+Mousambi(Sweet+Lime),Punjab,Fazilka,Abohar,66,90,80,2021-05-28,2021,5,Zaid,30.4018,74.0226
+Pomegranate,Punjab,Fazilka,Abohar,46,112,71,2021-04-17,2021,4,Zaid,30.4018,74.0226
+Garlic,Punjab,Fazilka,Abohar,45,70,59,2021-03-03,2021,3,Rabi,30.4018,74.0226
+Mango,Punjab,Fazilka,Abohar,71,92,80,2021-03-22,2021,3,Rabi,30.4018,74.0226
+Lemon,Punjab,Fazilka,Abohar,36,75,71,2021-04-17,2021,4,Zaid,30.4018,74.0226
+Litchi,Punjab,Fazilka,Abohar,76,91,83,2021-05-28,2021,5,Zaid,30.4018,74.0226
+Orange,Punjab,Fazilka,Abohar,75,85,75,2021-04-13,2021,4,Zaid,30.4018,74.0226
+Apple,Punjab,Fazilka,Abohar,65,95,79,2021-03-22,2021,3,Rabi,30.4018,74.0226
+Cabbage,Punjab,Fazilka,Abohar,2,5,3,2021-03-25,2021,3,Rabi,30.4018,74.0226
+Grapes,Punjab,Fazilka,Abohar,57,90,68,2021-04-29,2021,4,Zaid,30.4018,74.0226
+Mousambi(Sweet+Lime),Punjab,Fazilka,Abohar,45,60,57,2021-04-29,2021,4,Zaid,30.4018,74.0226
+Peas+cod,Punjab,Fazilka,Abohar,51,65,56,2021-04-29,2021,4,Zaid,30.4018,74.0226
+Pomegranate,Punjab,Fazilka,Abohar,47,83,66,2021-04-29,2021,4,Zaid,30.4018,74.0226
+Apple,Punjab,Fazilka,Abohar,74,157,92,2021-04-29,2021,4,Zaid,30.4018,74.0226
+Garlic,Rajasthan,Sirohi,Abu Road,130,130,130,2019-10-31,2019,10,Kharif,24.8878,72.8601
+Apple,Uttar Pradesh,Auraiya,Achalda,60,61,61,2019-07-05,2019,7,Kharif,26.4667,79.5167
+Apple,Uttar Pradesh,Auraiya,Achalda,60,63,62,2019-07-04,2019,7,Kharif,26.4667,79.5167
+Apple,Uttar Pradesh,Auraiya,Achalda,60,62,61,2019-07-09,2019,7,Kharif,26.4667,79.5167
+Apple,Uttar Pradesh,Auraiya,Achalda,55,57,56,2019-07-06,2019,7,Kharif,26.4667,79.5167
+Arhar+Dal(Tur+Dal),Uttar Pradesh,Auraiya,Achalda,80,81,81,2019-09-30,2019,9,Kharif,26.4667,79.5167
+Arhar+Dal(Tur+Dal),Uttar Pradesh,Auraiya,Achalda,86,87,86,2019-11-25,2019,11,Rabi,26.4667,79.5167
+Apple,Uttar Pradesh,Auraiya,Achalda,54,57,56,2019-09-20,2019,9,Kharif,26.4667,79.5167
+Arhar+Dal(Tur+Dal),Uttar Pradesh,Auraiya,Achalda,79,81,80,2019-09-20,2019,9,Kharif,26.4667,79.5167
+Garlic,Uttar Pradesh,Auraiya,Achalda,73,75,74,2019-09-20,2019,9,Kharif,26.4667,79.5167
+Mustard+Oil,Uttar Pradesh,Auraiya,Achalda,87,89,88,2019-09-20,2019,9,Kharif,26.4667,79.5167
+Garlic,Uttar Pradesh,Auraiya,Achalda,98,100,99,2019-11-07,2019,11,Rabi,26.4667,79.5167
+Mustard+Oil,Uttar Pradesh,Auraiya,Achalda,91,92,92,2019-11-07,2019,11,Rabi,26.4667,79.5167
+Arhar+Dal(Tur+Dal),Uttar Pradesh,Auraiya,Achalda,86,87,86,2019-11-07,2019,11,Rabi,26.4667,79.5167
+Apple,Uttar Pradesh,Auraiya,Achalda,58,60,59,2019-10-05,2019,10,Kharif,26.4667,79.5167
+Garlic,Uttar Pradesh,Auraiya,Achalda,74,76,75,2019-09-19,2019,9,Kharif,26.4667,79.5167
+Mustard+Oil,Uttar Pradesh,Auraiya,Achalda,89,91,90,2019-10-05,2019,10,Kharif,26.4667,79.5167
+Garlic,Uttar Pradesh,Auraiya,Achalda,99,110,100,2019-11-20,2019,11,Rabi,26.4667,79.5167
+Mustard+Oil,Uttar Pradesh,Auraiya,Achalda,89,91,90,2019-09-19,2019,9,Kharif,26.4667,79.5167
+Mustard+Oil,Uttar Pradesh,Auraiya,Achalda,90,91,91,2019-09-21,2019,9,Kharif,26.4667,79.5167
+Garlic,Uttar Pradesh,Auraiya,Achalda,80,82,81,2019-09-21,2019,9,Kharif,26.4667,79.5167
+Garlic,Uttar Pradesh,Auraiya,Achalda,86,88,87,2019-09-26,2019,9,Kharif,26.4667,79.5167
+Mustard+Oil,Uttar Pradesh,Auraiya,Achalda,89,90,90,2019-10-15,2019,10,Kharif,26.4667,79.5167
+Arhar+Dal(Tur+Dal),Uttar Pradesh,Auraiya,Achalda,80,81,81,2019-10-29,2019,10,Kharif,26.4667,79.5167
+Mustard,Uttar Pradesh,Auraiya,Achalda,75,77,76,2019-10-29,2019,10,Kharif,26.4667,79.5167
+Apple,Uttar Pradesh,Auraiya,Achalda,60,63,61,2019-09-21,2019,9,Kharif,26.4667,79.5167
+Mustard+Oil,Uttar Pradesh,Auraiya,Achalda,88,90,89,2019-09-27,2019,9,Kharif,26.4667,79.5167
+Garlic,Uttar Pradesh,Auraiya,Achalda,105,109,108,2019-12-10,2019,12,Rabi,26.4667,79.5167
+Garlic,Uttar Pradesh,Auraiya,Achalda,97,99,98,2019-11-04,2019,11,Rabi,26.4667,79.5167
+Garlic,Uttar Pradesh,Auraiya,Achalda,85,87,86,2019-09-25,2019,9,Kharif,26.4667,79.5167
+Arhar+Dal(Tur+Dal),Uttar Pradesh,Auraiya,Achalda,80,81,80,2019-10-08,2019,10,Kharif,26.4667,79.5167
+Apple,Uttar Pradesh,Auraiya,Achalda,56,58,57,2019-11-08,2019,11,Rabi,26.4667,79.5167
+Arhar+Dal(Tur+Dal),Uttar Pradesh,Auraiya,Achalda,86,88,87,2019-11-08,2019,11,Rabi,26.4667,79.5167
+Mustard+Oil,Uttar Pradesh,Auraiya,Achalda,79,80,80,2019-10-26,2019,10,Kharif,26.4667,79.5167
+Onion,Uttar Pradesh,Auraiya,Achalda,70,71,71,2019-12-10,2019,12,Rabi,26.4667,79.5167
+Apple,Uttar Pradesh,Auraiya,Achalda,60,61,61,2019-09-24,2019,9,Kharif,26.4667,79.5167
+Apple,Uttar Pradesh,Auraiya,Achalda,55,56,56,2019-11-04,2019,11,Rabi,26.4667,79.5167
+Arhar+Dal(Tur+Dal),Uttar Pradesh,Auraiya,Achalda,81,83,82,2019-11-04,2019,11,Rabi,26.4667,79.5167
+Mustard+Oil,Uttar Pradesh,Auraiya,Achalda,90,91,90,2019-10-12,2019,10,Kharif,26.4667,79.5167
+Mustard+Oil,Uttar Pradesh,Auraiya,Achalda,89,91,90,2019-09-23,2019,9,Kharif,26.4667,79.5167
+Arhar+Dal(Tur+Dal),Uttar Pradesh,Auraiya,Achalda,80,82,81,2019-09-19,2019,9,Kharif,26.4667,79.5167
+Garlic,Uttar Pradesh,Auraiya,Achalda,87,89,88,2019-09-28,2019,9,Kharif,26.4667,79.5167
+Arhar+Dal(Tur+Dal),Uttar Pradesh,Auraiya,Achalda,79,80,80,2019-10-17,2019,10,Kharif,26.4667,79.5167
+Apple,Uttar Pradesh,Auraiya,Achalda,55,58,57,2019-11-06,2019,11,Rabi,26.4667,79.5167
+Arhar+Dal(Tur+Dal),Uttar Pradesh,Auraiya,Achalda,85,87,86,2019-11-06,2019,11,Rabi,26.4667,79.5167
+Garlic,Uttar Pradesh,Auraiya,Achalda,114,120,116,2019-12-26,2019,12,Rabi,26.4667,79.5167
+Garlic,Uttar Pradesh,Auraiya,Achalda,94,100,99,2019-11-30,2019,11,Rabi,26.4667,79.5167
+Arhar+Dal(Tur+Dal),Uttar Pradesh,Auraiya,Achalda,83,85,85,2019-11-12,2019,11,Rabi,26.4667,79.5167
+Mustard+Oil,Uttar Pradesh,Auraiya,Achalda,90,91,90,2019-12-06,2019,12,Rabi,26.4667,79.5167
+Onion,Uttar Pradesh,Auraiya,Achalda,70,71,70,2019-12-06,2019,12,Rabi,26.4667,79.5167
+Onion,Uttar Pradesh,Auraiya,Achalda,65,67,67,2019-12-26,2019,12,Rabi,26.4667,79.5167
+Arhar+Dal(Tur+Dal),Uttar Pradesh,Auraiya,Achalda,79,81,80,2019-10-19,2019,10,Kharif,26.4667,79.5167
+Garlic,Uttar Pradesh,Auraiya,Achalda,100,108,106,2019-12-06,2019,12,Rabi,26.4667,79.5167
+Arhar+Dal(Tur+Dal),Uttar Pradesh,Auraiya,Achalda,79,81,80,2019-10-09,2019,10,Kharif,26.4667,79.5167
+Arhar+Dal(Tur+Dal),Uttar Pradesh,Auraiya,Achalda,81,83,82,2019-11-05,2019,11,Rabi,26.4667,79.5167
+Apple,Uttar Pradesh,Auraiya,Achalda,55,57,56,2019-10-25,2019,10,Kharif,26.4667,79.5167
+Garlic,Uttar Pradesh,Auraiya,Achalda,110,116,115,2019-12-28,2019,12,Rabi,26.4667,79.5167
+Mustard+Oil,Uttar Pradesh,Auraiya,Achalda,87,90,89,2019-10-30,2019,10,Kharif,26.4667,79.5167
+Arhar+Dal(Tur+Dal),Uttar Pradesh,Auraiya,Achalda,85,87,86,2019-12-04,2019,12,Rabi,26.4667,79.5167
+Garlic,Uttar Pradesh,Auraiya,Achalda,100,106,105,2019-12-04,2019,12,Rabi,26.4667,79.5167
+Arhar+Dal(Tur+Dal),Uttar Pradesh,Auraiya,Achalda,83,85,84,2019-11-29,2019,11,Rabi,26.4667,79.5167
+Garlic,Uttar Pradesh,Auraiya,Achalda,98,108,100,2019-11-21,2019,11,Rabi,26.4667,79.5167
+Mustard+Oil,Uttar Pradesh,Auraiya,Achalda,90,92,91,2019-11-18,2019,11,Rabi,26.4667,79.5167
+Garlic,Uttar Pradesh,Auraiya,Achalda,105,106,105,2019-12-13,2019,12,Rabi,26.4667,79.5167
+Apple,Uttar Pradesh,Auraiya,Achalda,57,58,57,2019-11-21,2019,11,Rabi,26.4667,79.5167
+Mustard+Oil,Uttar Pradesh,Auraiya,Achalda,89,91,90,2019-11-09,2019,11,Rabi,26.4667,79.5167
+Onion,Uttar Pradesh,Auraiya,Achalda,70,72,71,2019-12-13,2019,12,Rabi,26.4667,79.5167
+Arhar+Dal(Tur+Dal),Uttar Pradesh,Auraiya,Achalda,87,89,88,2019-11-09,2019,11,Rabi,26.4667,79.5167
+Garlic,Uttar Pradesh,Auraiya,Achalda,102,106,105,2019-12-17,2019,12,Rabi,26.4667,79.5167
+Mustard+Oil,Uttar Pradesh,Auraiya,Achalda,91,93,92,2019-12-14,2019,12,Rabi,26.4667,79.5167
+Arhar+Dal(Tur+Dal),Uttar Pradesh,Auraiya,Achalda,84,86,85,2019-11-19,2019,11,Rabi,26.4667,79.5167
+Apple,Uttar Pradesh,Auraiya,Achalda,84,86,85,2019-11-19,2019,11,Rabi,26.4667,79.5167
+Arhar+Dal(Tur+Dal),Uttar Pradesh,Auraiya,Achalda,84,86,85,2019-11-11,2019,11,Rabi,26.4667,79.5167
+Garlic,Uttar Pradesh,Auraiya,Achalda,110,117,116,2019-12-30,2019,12,Rabi,26.4667,79.5167
+Mustard+Oil,Uttar Pradesh,Auraiya,Achalda,90,92,92,2019-12-30,2019,12,Rabi,26.4667,79.5167
+Arhar+Dal(Tur+Dal),Uttar Pradesh,Auraiya,Achalda,90,92,91,2019-11-18,2019,11,Rabi,26.4667,79.5167
+Garlic,Uttar Pradesh,Auraiya,Achalda,100,108,105,2019-11-25,2019,11,Rabi,26.4667,79.5167
+Mustard+Oil,Uttar Pradesh,Auraiya,Achalda,90,93,92,2019-12-27,2019,12,Rabi,26.4667,79.5167
+Onion,Uttar Pradesh,Auraiya,Achalda,60,61,61,2019-12-16,2019,12,Rabi,26.4667,79.5167
+Mustard+Oil,Uttar Pradesh,Auraiya,Achalda,90,91,90,2019-12-07,2019,12,Rabi,26.4667,79.5167
+Onion,Uttar Pradesh,Auraiya,Achalda,70,71,71,2019-12-07,2019,12,Rabi,26.4667,79.5167
+Garlic,Uttar Pradesh,Auraiya,Achalda,100,105,104,2019-12-05,2019,12,Rabi,26.4667,79.5167
+Garlic,Uttar Pradesh,Auraiya,Achalda,104,108,106,2019-12-18,2019,12,Rabi,26.4667,79.5167
+Mustard+Oil,Uttar Pradesh,Auraiya,Achalda,90,92,92,2019-12-28,2019,12,Rabi,26.4667,79.5167
+Garlic,Uttar Pradesh,Auraiya,Achalda,102,105,104,2019-12-09,2019,12,Rabi,26.4667,79.5167
+Garlic,Uttar Pradesh,Auraiya,Achalda,100,107,105,2019-12-21,2019,12,Rabi,26.4667,79.5167
+Mustard+Oil,Uttar Pradesh,Auraiya,Achalda,90,93,92,2019-12-21,2019,12,Rabi,26.4667,79.5167
+Onion,Uttar Pradesh,Auraiya,Achalda,69,71,70,2019-12-09,2019,12,Rabi,26.4667,79.5167
+Garlic,Uttar Pradesh,Auraiya,Achalda,112,116,115,2019-12-24,2019,12,Rabi,26.4667,79.5167
+Onion,Uttar Pradesh,Auraiya,Achalda,65,67,66,2019-12-24,2019,12,Rabi,26.4667,79.5167
+Onion,Uttar Pradesh,Auraiya,Achalda,66,67,66,2019-12-20,2019,12,Rabi,26.4667,79.5167
+Garlic,Uttar Pradesh,Auraiya,Achalda,102,107,106,2019-12-19,2019,12,Rabi,26.4667,79.5167
+Mustard+Oil,Uttar Pradesh,Auraiya,Achalda,91,93,92,2019-12-19,2019,12,Rabi,26.4667,79.5167
+Garlic,Uttar Pradesh,Auraiya,Achalda,115,123,120,2019-12-20,2019,12,Rabi,26.4667,79.5167
+Mustard+Oil,Uttar Pradesh,Auraiya,Achalda,92,93,93,2019-12-20,2019,12,Rabi,26.4667,79.5167
+Garlic,Uttar Pradesh,Auraiya,Achalda,114,118,116,2019-12-25,2019,12,Rabi,26.4667,79.5167
+Apple,Uttar Pradesh,Auraiya,Achalda,77,79,78,2021-03-19,2021,3,Rabi,26.4667,79.5167
+Apple,Uttar Pradesh,Auraiya,Achalda,95,0,96,2021-05-05,2021,5,Zaid,26.4667,79.5167
+Arhar+Dal(Tur+Dal),Uttar Pradesh,Auraiya,Achalda,98,99,99,2021-05-05,2021,5,Zaid,26.4667,79.5167
+Apple,Uttar Pradesh,Auraiya,Achalda,107,109,108,2021-05-17,2021,5,Zaid,26.4667,79.5167
+Mustard+Oil,Uttar Pradesh,Auraiya,Achalda,117,118,118,2021-03-30,2021,3,Rabi,26.4667,79.5167
+Arhar+Dal(Tur+Dal),Uttar Pradesh,Auraiya,Achalda,92,94,93,2021-03-19,2021,3,Rabi,26.4667,79.5167
+Apple,Uttar Pradesh,Auraiya,Achalda,70,73,72,2021-03-03,2021,3,Rabi,26.4667,79.5167
+Apple,Uttar Pradesh,Auraiya,Achalda,80,86,85,2021-04-07,2021,4,Zaid,26.4667,79.5167
+Arhar+Dal(Tur+Dal),Uttar Pradesh,Auraiya,Achalda,92,94,93,2021-04-07,2021,4,Zaid,26.4667,79.5167
+Arhar+Dal(Tur+Dal),Uttar Pradesh,Auraiya,Achalda,97,99,98,2021-05-22,2021,5,Zaid,26.4667,79.5167
+Apple,Uttar Pradesh,Auraiya,Achalda,96,98,97,2021-05-08,2021,5,Zaid,26.4667,79.5167
+Arhar+Dal(Tur+Dal),Uttar Pradesh,Auraiya,Achalda,97,99,98,2021-05-08,2021,5,Zaid,26.4667,79.5167
+Mustard,Uttar Pradesh,Auraiya,Achalda,62,64,63,2021-05-08,2021,5,Zaid,26.4667,79.5167
+Apple,Uttar Pradesh,Auraiya,Achalda,97,99,98,2021-05-06,2021,5,Zaid,26.4667,79.5167
+Arhar+Dal(Tur+Dal),Uttar Pradesh,Auraiya,Achalda,97,100,99,2021-05-06,2021,5,Zaid,26.4667,79.5167
+Mustard+Oil,Uttar Pradesh,Auraiya,Achalda,128,130,129,2021-05-06,2021,5,Zaid,26.4667,79.5167
+Apple,Uttar Pradesh,Auraiya,Achalda,93,95,94,2021-05-03,2021,5,Zaid,26.4667,79.5167
+Mustard,Uttar Pradesh,Auraiya,Achalda,58,59,59,2021-04-13,2021,4,Zaid,26.4667,79.5167
+Mustard+Oil,Uttar Pradesh,Auraiya,Achalda,122,124,123,2021-04-13,2021,4,Zaid,26.4667,79.5167
+Garlic,Uttar Pradesh,Auraiya,Achalda,65,67,66,2021-07-22,2021,7,Kharif,26.4667,79.5167
+Mustard,Uttar Pradesh,Auraiya,Achalda,63,65,64,2021-04-21,2021,4,Zaid,26.4667,79.5167
+Mustard+Oil,Uttar Pradesh,Auraiya,Achalda,143,146,145,2021-07-22,2021,7,Kharif,26.4667,79.5167
+Apple,Uttar Pradesh,Auraiya,Achalda,77,80,78,2021-03-22,2021,3,Rabi,26.4667,79.5167
+Apple,Uttar Pradesh,Auraiya,Achalda,78,80,79,2021-03-30,2021,3,Rabi,26.4667,79.5167
+Mustard+Oil,Uttar Pradesh,Auraiya,Achalda,115,117,116,2021-03-13,2021,3,Rabi,26.4667,79.5167
+Garlic,Uttar Pradesh,Auraiya,Achalda,56,59,57,2021-03-22,2021,3,Rabi,26.4667,79.5167
+Apple,Uttar Pradesh,Auraiya,Achalda,74,75,74,2021-03-13,2021,3,Rabi,26.4667,79.5167
+Garlic,Uttar Pradesh,Auraiya,Achalda,62,64,63,2021-03-13,2021,3,Rabi,26.4667,79.5167
+Apple,Uttar Pradesh,Auraiya,Achalda,88,90,89,2021-04-20,2021,4,Zaid,26.4667,79.5167
+Apple,Uttar Pradesh,Auraiya,Achalda,87,89,88,2021-04-11,2021,4,Zaid,26.4667,79.5167
+Mustard,Uttar Pradesh,Auraiya,Achalda,63,64,64,2021-07-08,2021,7,Kharif,26.4667,79.5167
+Mustard+Oil,Uttar Pradesh,Auraiya,Achalda,140,143,142,2021-07-08,2021,7,Kharif,26.4667,79.5167
+Apple,Uttar Pradesh,Auraiya,Achalda,72,74,73,2021-03-08,2021,3,Rabi,26.4667,79.5167
+Apple,Uttar Pradesh,Auraiya,Achalda,110,113,112,2021-07-09,2021,7,Kharif,26.4667,79.5167
+Mustard+Oil,Uttar Pradesh,Auraiya,Achalda,125,127,126,2021-04-23,2021,4,Zaid,26.4667,79.5167
+Mustard+Oil,Uttar Pradesh,Auraiya,Achalda,140,143,142,2021-07-09,2021,7,Kharif,26.4667,79.5167
+Mustard+Oil,Uttar Pradesh,Auraiya,Achalda,145,147,146,2021-07-29,2021,7,Kharif,26.4667,79.5167
+Apple,Uttar Pradesh,Auraiya,Achalda,106,108,107,2021-05-19,2021,5,Zaid,26.4667,79.5167
+Arhar+Dal(Tur+Dal),Uttar Pradesh,Auraiya,Achalda,96,98,97,2021-05-19,2021,5,Zaid,26.4667,79.5167
+Mustard,Uttar Pradesh,Auraiya,Achalda,67,69,68,2021-05-19,2021,5,Zaid,26.4667,79.5167
+Arhar+Dal(Tur+Dal),Uttar Pradesh,Auraiya,Achalda,93,94,94,2021-07-22,2021,7,Kharif,26.4667,79.5167
+Apple,Uttar Pradesh,Auraiya,Achalda,72,73,73,2021-03-02,2021,3,Rabi,26.4667,79.5167
+Mustard+Oil,Uttar Pradesh,Auraiya,Achalda,117,120,118,2021-03-01,2021,3,Rabi,26.4667,79.5167
+Apple,Uttar Pradesh,Auraiya,Achalda,76,78,77,2021-03-17,2021,3,Rabi,26.4667,79.5167
+Arhar+Dal(Tur+Dal),Uttar Pradesh,Auraiya,Achalda,92,94,94,2021-03-17,2021,3,Rabi,26.4667,79.5167
+Apple,Uttar Pradesh,Auraiya,Achalda,105,107,106,2021-05-29,2021,5,Zaid,26.4667,79.5167
+Green+Chilli,Uttar Pradesh,Auraiya,Achalda,55,57,56,2021-03-25,2021,3,Rabi,26.4667,79.5167
+Apple,Uttar Pradesh,Auraiya,Achalda,87,89,88,2021-04-19,2021,4,Zaid,26.4667,79.5167
+Garlic,Uttar Pradesh,Auraiya,Achalda,49,71,70,2021-03-01,2021,3,Rabi,26.4667,79.5167
+Mustard,Uttar Pradesh,Auraiya,Achalda,61,63,62,2021-07-05,2021,7,Kharif,26.4667,79.5167
+Lemon,Uttar Pradesh,Agra,Achnera,66,67,67,2021-05-12,2021,5,Zaid,27.1767,78.0081
+Mustard,Uttar Pradesh,Agra,Achnera,63,65,64,2021-05-12,2021,5,Zaid,27.1767,78.0081
+Mustard,Uttar Pradesh,Agra,Achnera,65,67,66,2021-05-19,2021,5,Zaid,27.1767,78.0081
+Lemon,Uttar Pradesh,Agra,Achnera,61,62,62,2021-05-22,2021,5,Zaid,27.1767,78.0081
+Mustard,Uttar Pradesh,Agra,Achnera,65,67,66,2021-05-28,2021,5,Zaid,27.1767,78.0081
+Lemon,Uttar Pradesh,Agra,Achnera,66,67,66,2021-05-11,2021,5,Zaid,27.1767,78.0081
+Mustard,Uttar Pradesh,Agra,Achnera,63,65,64,2021-05-11,2021,5,Zaid,27.1767,78.0081
+Lemon,Uttar Pradesh,Agra,Achnera,65,66,66,2021-05-07,2021,5,Zaid,27.1767,78.0081
+Mustard,Uttar Pradesh,Agra,Achnera,62,64,63,2021-05-15,2021,5,Zaid,27.1767,78.0081
+Mustard,Uttar Pradesh,Agra,Achnera,58,60,59,2021-04-20,2021,4,Zaid,27.1767,78.0081
+Mustard,Uttar Pradesh,Agra,Achnera,60,62,61,2021-04-26,2021,4,Zaid,27.1767,78.0081
+Mustard,Uttar Pradesh,Agra,Achnera,61,63,62,2021-04-27,2021,4,Zaid,27.1767,78.0081
+Mustard,Uttar Pradesh,Agra,Achnera,61,63,62,2021-07-29,2021,7,Kharif,27.1767,78.0081
+Mustard,Uttar Pradesh,Agra,Achnera,61,63,62,2021-04-28,2021,4,Zaid,27.1767,78.0081
+Mustard,Uttar Pradesh,Agra,Achnera,62,64,63,2021-05-14,2021,5,Zaid,27.1767,78.0081
+Mustard,Uttar Pradesh,Agra,Achnera,61,63,62,2021-07-19,2021,7,Kharif,27.1767,78.0081
+Mustard,Uttar Pradesh,Agra,Achnera,60,62,61,2021-07-08,2021,7,Kharif,27.1767,78.0081
+Lemon,Uttar Pradesh,Agra,Achnera,59,60,59,2021-05-25,2021,5,Zaid,27.1767,78.0081
+Cucumbar(Kheera),Punjab,Jalandhar,Adampur,2,3,3,2019-05-23,2019,5,Zaid,29.1492,75.7217
+Ginger(Green),Punjab,Jalandhar,Adampur,90,100,100,2019-05-23,2019,5,Zaid,29.1492,75.7217
+Pumpkin,Punjab,Jalandhar,Adampur,2,3,3,2019-05-23,2019,5,Zaid,29.1492,75.7217
+Raddish,Punjab,Jalandhar,Adampur,2,3,3,2019-05-23,2019,5,Zaid,29.1492,75.7217
+Ginger(Green),Punjab,Jalandhar,Adampur,95,100,100,2019-05-25,2019,5,Zaid,29.1492,75.7217
+Ginger(Green),Punjab,Jalandhar,Adampur,100,110,110,2019-05-28,2019,5,Zaid,29.1492,75.7217
+Cotton,Haryana,Hissar,Adampur,65,66,66,2019-05-28,2019,5,Zaid,29.1492,75.7217
+Cotton,Haryana,Hissar,Adampur,63,66,64,2019-05-29,2019,5,Zaid,29.1492,75.7217
+Cotton,Haryana,Hissar,Adampur,40,63,63,2019-06-10,2019,6,Kharif,29.1492,75.7217
+Sweet+Pumpkin,Punjab,Jalandhar,Adampur,2,3,3,2019-06-10,2019,6,Kharif,29.1492,75.7217
+Water+Melon,Punjab,Jalandhar,Adampur,2,3,3,2019-06-10,2019,6,Kharif,29.1492,75.7217
+Bitter+gourd,Punjab,Jalandhar,Adampur,3,3,3,2019-06-17,2019,6,Kharif,29.1492,75.7217
+Water+Melon,Punjab,Jalandhar,Adampur,2,3,3,2019-06-11,2019,6,Kharif,29.1492,75.7217
+Cotton,Haryana,Hissar,Adampur,63,63,63,2019-06-11,2019,6,Kharif,29.1492,75.7217
+Cotton,Haryana,Hissar,Adampur,63,63,63,2019-06-12,2019,6,Kharif,29.1492,75.7217
+Pumpkin,Punjab,Jalandhar,Adampur,2,3,3,2019-06-12,2019,6,Kharif,29.1492,75.7217
+Ginger(Green),Punjab,Jalandhar,Adampur,100,150,150,2019-06-13,2019,6,Kharif,29.1492,75.7217
+Cotton,Haryana,Hissar,Adampur,64,65,64,2019-06-15,2019,6,Kharif,29.1492,75.7217
+Cotton,Haryana,Hissar,Adampur,63,63,63,2019-06-14,2019,6,Kharif,29.1492,75.7217
+Pumpkin,Punjab,Jalandhar,Adampur,3,3,3,2019-06-18,2019,6,Kharif,29.1492,75.7217
+Water+Melon,Punjab,Jalandhar,Adampur,2,2,2,2019-06-19,2019,6,Kharif,29.1492,75.7217
+Ginger(Green),Punjab,Jalandhar,Adampur,150,180,180,2019-06-21,2019,6,Kharif,29.1492,75.7217
+Cotton,Haryana,Hissar,Adampur,60,64,63,2019-06-21,2019,6,Kharif,29.1492,75.7217
+Cotton,Haryana,Hissar,Adampur,63,64,64,2019-06-19,2019,6,Kharif,29.1492,75.7217
+Garlic,Punjab,Jalandhar,Adampur,50,70,70,2019-06-28,2019,6,Kharif,29.1492,75.7217
+Cotton,Haryana,Hissar,Adampur,50,61,61,2019-07-04,2019,7,Kharif,29.1492,75.7217
+Cotton,Haryana,Hissar,Adampur,60,63,61,2019-06-24,2019,6,Kharif,29.1492,75.7217
+Cotton,Haryana,Hissar,Adampur,62,63,62,2019-06-22,2019,6,Kharif,29.1492,75.7217
+Ginger(Green),Punjab,Jalandhar,Adampur,140,150,150,2019-07-18,2019,7,Kharif,29.1492,75.7217
+Ginger(Green),Punjab,Jalandhar,Adampur,120,150,150,2019-07-03,2019,7,Kharif,29.1492,75.7217
+Cotton,Haryana,Hissar,Adampur,61,62,61,2019-07-22,2019,7,Kharif,29.1492,75.7217
+Cotton,Haryana,Hissar,Adampur,57,61,61,2019-07-05,2019,7,Kharif,29.1492,75.7217
+Ginger(Green),Punjab,Jalandhar,Adampur,150,160,160,2019-07-01,2019,7,Kharif,29.1492,75.7217
+Cotton,Haryana,Hissar,Adampur,61,62,61,2019-07-10,2019,7,Kharif,29.1492,75.7217
+Cotton,Haryana,Hissar,Adampur,61,61,61,2019-07-20,2019,7,Kharif,29.1492,75.7217
+Cotton,Haryana,Hissar,Adampur,60,62,62,2019-07-08,2019,7,Kharif,29.1492,75.7217
+Cotton,Haryana,Hissar,Adampur,61,62,61,2019-07-19,2019,7,Kharif,29.1492,75.7217
+Cotton,Haryana,Hissar,Adampur,61,62,62,2019-07-09,2019,7,Kharif,29.1492,75.7217
+Cotton,Haryana,Hissar,Adampur,51,59,59,2019-08-22,2019,8,Kharif,29.1492,75.7217
+Ginger(Green),Punjab,Jalandhar,Adampur,130,140,140,2019-07-22,2019,7,Kharif,29.1492,75.7217
+Ginger(Green),Punjab,Jalandhar,Adampur,120,130,130,2019-07-23,2019,7,Kharif,29.1492,75.7217
+Cotton,Haryana,Hissar,Adampur,61,62,62,2019-07-25,2019,7,Kharif,29.1492,75.7217
+Cotton,Haryana,Hissar,Adampur,55,62,62,2019-07-26,2019,7,Kharif,29.1492,75.7217
+Garlic,Punjab,Jalandhar,Adampur,60,70,70,2019-07-29,2019,7,Kharif,29.1492,75.7217
+Cotton,Haryana,Hissar,Adampur,60,62,62,2019-07-23,2019,7,Kharif,29.1492,75.7217
+Cotton,Haryana,Hissar,Adampur,55,59,56,2019-08-12,2019,8,Kharif,29.1492,75.7217
+Cotton,Haryana,Hissar,Adampur,56,59,59,2019-08-10,2019,8,Kharif,29.1492,75.7217
+Ginger(Green),Punjab,Jalandhar,Adampur,130,150,150,2019-07-24,2019,7,Kharif,29.1492,75.7217
+Cotton,Haryana,Hissar,Adampur,60,62,61,2019-07-24,2019,7,Kharif,29.1492,75.7217
+Ginger(Green),Punjab,Jalandhar,Adampur,70,80,80,2019-08-15,2019,8,Kharif,29.1492,75.7217
+Cotton,Haryana,Hissar,Adampur,60,62,61,2019-08-01,2019,8,Kharif,29.1492,75.7217
+Cotton,Haryana,Hissar,Adampur,58,60,59,2019-08-20,2019,8,Kharif,29.1492,75.7217
+Cotton,Haryana,Hissar,Adampur,51,59,56,2019-09-10,2019,9,Kharif,29.1492,75.7217
+Cotton,Haryana,Hissar,Adampur,40,58,56,2019-09-14,2019,9,Kharif,29.1492,75.7217
+Ginger(Green),Punjab,Jalandhar,Adampur,75,100,100,2019-08-23,2019,8,Kharif,29.1492,75.7217
+Ginger(Green),Punjab,Jalandhar,Adampur,80,120,120,2019-08-01,2019,8,Kharif,29.1492,75.7217
+Cotton,Haryana,Hissar,Adampur,56,60,59,2019-08-13,2019,8,Kharif,29.1492,75.7217
+Garlic,Punjab,Jalandhar,Adampur,80,85,85,2019-08-05,2019,8,Kharif,29.1492,75.7217
+Cotton,Haryana,Hissar,Adampur,59,62,61,2019-07-31,2019,7,Kharif,29.1492,75.7217
+Cotton,Haryana,Hissar,Adampur,51,59,59,2019-08-29,2019,8,Kharif,29.1492,75.7217
+Cotton,Haryana,Hissar,Adampur,51,60,59,2019-08-21,2019,8,Kharif,29.1492,75.7217
+Ginger(Green),Punjab,Jalandhar,Adampur,80,100,100,2019-08-06,2019,8,Kharif,29.1492,75.7217
+Garlic,Punjab,Jalandhar,Adampur,70,80,80,2019-08-06,2019,8,Kharif,29.1492,75.7217
+Lemon,Punjab,Jalandhar,Adampur,60,70,70,2019-09-16,2019,9,Kharif,29.1492,75.7217
+Garlic,Punjab,Jalandhar,Adampur,80,90,90,2019-08-07,2019,8,Kharif,29.1492,75.7217
+Ginger(Green),Punjab,Jalandhar,Adampur,70,90,90,2019-08-07,2019,8,Kharif,29.1492,75.7217
+Peas+Wet,Punjab,Jalandhar,Adampur,60,70,70,2019-08-16,2019,8,Kharif,29.1492,75.7217
+Cotton,Haryana,Hissar,Adampur,52,59,59,2019-08-24,2019,8,Kharif,29.1492,75.7217
+Ginger(Green),Punjab,Jalandhar,Adampur,60,80,80,2019-08-14,2019,8,Kharif,29.1492,75.7217
+Cotton,Haryana,Hissar,Adampur,52,59,56,2019-08-27,2019,8,Kharif,29.1492,75.7217
+Ginger(Green),Punjab,Jalandhar,Adampur,80,90,90,2019-08-17,2019,8,Kharif,29.1492,75.7217
+Cotton,Haryana,Hissar,Adampur,59,60,59,2019-08-17,2019,8,Kharif,29.1492,75.7217
+Cotton,Haryana,Hissar,Adampur,52,59,59,2019-08-23,2019,8,Kharif,29.1492,75.7217
+Cotton,Haryana,Hissar,Adampur,53,59,56,2019-08-28,2019,8,Kharif,29.1492,75.7217
+Cotton,Haryana,Hissar,Adampur,41,58,56,2019-09-13,2019,9,Kharif,29.1492,75.7217
+Cotton,Haryana,Hissar,Adampur,49,58,56,2019-09-17,2019,9,Kharif,29.1492,75.7217
+Cotton,Haryana,Hissar,Adampur,41,56,56,2019-09-16,2019,9,Kharif,29.1492,75.7217
+Lemon,Punjab,Jalandhar,Adampur,65,70,70,2019-09-13,2019,9,Kharif,29.1492,75.7217
+Ginger(Green),Punjab,Jalandhar,Adampur,60,70,70,2019-09-24,2019,9,Kharif,29.1492,75.7217
+Peas+Wet,Punjab,Jalandhar,Adampur,70,80,80,2019-09-24,2019,9,Kharif,29.1492,75.7217
+Garlic,Punjab,Jalandhar,Adampur,60,90,90,2019-10-07,2019,10,Kharif,29.1492,75.7217
+Ginger(Green),Punjab,Jalandhar,Adampur,50,70,70,2019-10-14,2019,10,Kharif,29.1492,75.7217
+Peas+Wet,Punjab,Jalandhar,Adampur,70,75,75,2019-10-14,2019,10,Kharif,29.1492,75.7217
+Ginger(Green),Punjab,Jalandhar,Adampur,55,62,62,2019-12-31,2019,12,Rabi,29.1492,75.7217
+Lemon,Punjab,Jalandhar,Adampur,60,80,80,2021-04-15,2021,4,Zaid,29.1492,75.7217
+Lemon,Punjab,Jalandhar,Adampur,70,80,80,2021-04-21,2021,4,Zaid,29.1492,75.7217
+Cotton,Telangana,Adilabad,Adilabad,53,56,56,2019-11-20,2019,11,Rabi,19.6641,78.532
+Cotton,Telangana,Adilabad,Adilabad,47,57,56,2021-03-15,2021,3,Rabi,19.6641,78.532
+Cotton,Telangana,Adilabad,Adilabad,47,57,56,2021-03-26,2021,3,Rabi,19.6641,78.532
+Cotton,Telangana,Adilabad,Adilabad,46,57,56,2021-03-24,2021,3,Rabi,19.6641,78.532
+Cotton,Telangana,Adilabad,Adilabad,47,57,56,2021-03-25,2021,3,Rabi,19.6641,78.532
+Cotton,Telangana,Adilabad,Adilabad,47,57,56,2021-03-16,2021,3,Rabi,19.6641,78.532
+Cotton,Telangana,Adilabad,Adilabad,46,57,56,2021-03-13,2021,3,Rabi,19.6641,78.532
+Cotton,Telangana,Adilabad,Adilabad,46,57,56,2021-03-10,2021,3,Rabi,19.6641,78.532
+Cotton,Telangana,Adilabad,Adilabad,47,57,57,2021-03-12,2021,3,Rabi,19.6641,78.532
+Banana,Kerala,Idukki,Adimali,70,72,71,2019-05-24,2019,5,Zaid,9.85,77
+Cardamoms,Kerala,Idukki,Adimali,220,222,221,2019-05-24,2019,5,Zaid,9.85,77
+Cowpea(Veg),Kerala,Idukki,Adimali,65,67,66,2019-05-24,2019,5,Zaid,9.85,77
+Mango,Kerala,Idukki,Adimali,60,62,61,2019-05-24,2019,5,Zaid,9.85,77
+Green+Chilli,Kerala,Idukki,Adimali,60,62,61,2019-05-24,2019,5,Zaid,9.85,77
+Pineapple,Kerala,Idukki,Adimali,60,62,61,2019-05-24,2019,5,Zaid,9.85,77
+Nutmeg,Kerala,Idukki,Adimali,225,227,226,2019-05-24,2019,5,Zaid,9.85,77
+Banana+-+Green,Kerala,Idukki,Adimali,60,62,61,2019-05-28,2019,5,Zaid,9.85,77
+Bitter+gourd,Kerala,Idukki,Adimali,60,62,61,2019-05-28,2019,5,Zaid,9.85,77
+Cowpea(Veg),Kerala,Idukki,Adimali,60,62,61,2019-05-28,2019,5,Zaid,9.85,77
+Nutmeg,Kerala,Idukki,Adimali,240,242,241,2019-05-28,2019,5,Zaid,9.85,77
+Green+Chilli,Kerala,Idukki,Adimali,70,72,71,2019-05-28,2019,5,Zaid,9.85,77
+Tomato,Kerala,Idukki,Adimali,60,62,61,2019-05-28,2019,5,Zaid,9.85,77
+Black+pepper,Kerala,Idukki,Adimali,347,349,348,2019-06-14,2019,6,Kharif,9.85,77
+Black+pepper,Kerala,Idukki,Adimali,335,357,356,2019-06-28,2019,6,Kharif,9.85,77
+Drumstick,Kerala,Idukki,Adimali,60,62,61,2019-07-02,2019,7,Kharif,9.85,77
+Drumstick,Kerala,Idukki,Adimali,80,82,81,2019-07-09,2019,7,Kharif,9.85,77
+Drumstick,Kerala,Idukki,Adimali,70,72,71,2019-07-26,2019,7,Kharif,9.85,77
+Green+Chilli,Kerala,Idukki,Adimali,55,57,56,2019-08-12,2019,8,Kharif,9.85,77
+Carrot,Kerala,Idukki,Adimali,55,57,56,2019-10-01,2019,10,Kharif,9.85,77
+Coffee,Kerala,Idukki,Adimali,76,78,77,2019-09-24,2019,9,Kharif,9.85,77
+Coffee,Kerala,Idukki,Adimali,74,76,75,2019-09-06,2019,9,Kharif,9.85,77
+Coffee,Kerala,Idukki,Adimali,72,74,73,2019-08-20,2019,8,Kharif,9.85,77
+Green+Chilli,Kerala,Idukki,Adimali,65,67,66,2019-08-20,2019,8,Kharif,9.85,77
+Orange,Kerala,Idukki,Adimali,60,62,61,2019-11-08,2019,11,Rabi,9.85,77
+Grapes,Kerala,Idukki,Adimali,80,82,81,2019-08-30,2019,8,Kharif,9.85,77
+Banana,Kerala,Idukki,Adimali,60,62,61,2019-10-04,2019,10,Kharif,9.85,77
+Bitter+gourd,Kerala,Idukki,Adimali,56,58,57,2019-10-04,2019,10,Kharif,9.85,77
+Coffee,Kerala,Idukki,Adimali,78,80,79,2019-10-04,2019,10,Kharif,9.85,77
+Grapes,Kerala,Idukki,Adimali,70,72,71,2019-10-04,2019,10,Kharif,9.85,77
+Carrot,Kerala,Idukki,Adimali,60,62,61,2019-09-24,2019,9,Kharif,9.85,77
+Orange,Kerala,Idukki,Adimali,90,92,91,2019-11-29,2019,11,Rabi,9.85,77
+Bitter+gourd,Kerala,Idukki,Adimali,65,67,66,2019-11-29,2019,11,Rabi,9.85,77
+Brinjal,Kerala,Idukki,Adimali,60,62,61,2019-11-29,2019,11,Rabi,9.85,77
+Grapes,Kerala,Idukki,Adimali,75,77,76,2019-10-29,2019,10,Kharif,9.85,77
+Orange,Kerala,Idukki,Adimali,80,82,81,2019-10-01,2019,10,Kharif,9.85,77
+Grapes,Kerala,Idukki,Adimali,90,92,91,2019-10-22,2019,10,Kharif,9.85,77
+Orange,Kerala,Idukki,Adimali,70,72,71,2019-10-22,2019,10,Kharif,9.85,77
+Pineapple,Kerala,Idukki,Adimali,55,57,56,2019-10-22,2019,10,Kharif,9.85,77
+Cowpea(Veg),Kerala,Idukki,Adimali,70,72,71,2019-11-12,2019,11,Rabi,9.85,77
+Green+Chilli,Kerala,Idukki,Adimali,80,82,81,2019-12-07,2019,12,Rabi,9.85,77
+Ginger(Dry),Kerala,Idukki,Adimali,70,70,70,2021-07-19,2021,7,Kharif,9.85,77
+Orange,Kerala,Idukki,Adimali,120,120,120,2021-07-19,2021,7,Kharif,9.85,77
+Grapes,Kerala,Idukki,Adimali,80,120,80,2021-03-15,2021,3,Rabi,9.85,77
+Grapes,Kerala,Idukki,Adimali,120,140,120,2021-07-20,2021,7,Kharif,9.85,77
+Orange,Kerala,Idukki,Adimali,100,100,100,2021-07-20,2021,7,Kharif,9.85,77
+Grapes,Kerala,Idukki,Adimali,80,140,100,2021-03-06,2021,3,Rabi,9.85,77
+Orange,Kerala,Idukki,Adimali,110,140,120,2021-04-23,2021,4,Zaid,9.85,77
+Grapes,Kerala,Idukki,Adimali,100,100,100,2021-09-30,2021,9,Kharif,9.85,77
+Coconut,Kerala,Idukki,Adimali,56,58,56,2021-04-05,2021,4,Zaid,9.85,77
+Drumstick,Kerala,Idukki,Adimali,155,160,160,2021-03-10,2021,3,Rabi,9.85,77
+Groundnut,Andhra Pradesh,Kurnool,Adoni,67,67,67,2019-07-09,2019,7,Kharif,15.8281,78.0373
+Cotton,Andhra Pradesh,Kurnool,Adoni,46,62,59,2019-07-20,2019,7,Kharif,15.8281,78.0373
+Groundnut,Andhra Pradesh,Kurnool,Adoni,36,68,62,2019-07-20,2019,7,Kharif,15.8281,78.0373
+Groundnut,Andhra Pradesh,Kurnool,Adoni,63,63,63,2019-07-05,2019,7,Kharif,15.8281,78.0373
+Groundnut,Andhra Pradesh,Kurnool,Adoni,40,73,63,2019-08-24,2019,8,Kharif,15.8281,78.0373
+Groundnut,Andhra Pradesh,Kurnool,Adoni,43,71,64,2019-08-20,2019,8,Kharif,15.8281,78.0373
+Groundnut,Andhra Pradesh,Kurnool,Adoni,65,71,68,2019-07-10,2019,7,Kharif,15.8281,78.0373
+Groundnut,Andhra Pradesh,Kurnool,Adoni,38,67,56,2019-07-22,2019,7,Kharif,15.8281,78.0373
+Groundnut,Andhra Pradesh,Kurnool,Adoni,42,67,59,2019-07-30,2019,7,Kharif,15.8281,78.0373
+Groundnut,Andhra Pradesh,Kurnool,Adoni,33,63,61,2019-07-29,2019,7,Kharif,15.8281,78.0373
+Groundnut,Andhra Pradesh,Kurnool,Adoni,36,74,64,2019-08-22,2019,8,Kharif,15.8281,78.0373
+Groundnut,Andhra Pradesh,Kurnool,Adoni,40,63,56,2019-07-31,2019,7,Kharif,15.8281,78.0373
+Groundnut,Andhra Pradesh,Kurnool,Adoni,47,61,59,2019-07-25,2019,7,Kharif,15.8281,78.0373
+Groundnut,Andhra Pradesh,Kurnool,Adoni,36,58,57,2019-08-03,2019,8,Kharif,15.8281,78.0373
+Groundnut,Andhra Pradesh,Kurnool,Adoni,41,64,59,2019-08-10,2019,8,Kharif,15.8281,78.0373
+Groundnut,Andhra Pradesh,Kurnool,Adoni,34,63,59,2019-08-09,2019,8,Kharif,15.8281,78.0373
+Groundnut,Andhra Pradesh,Kurnool,Adoni,31,62,59,2019-08-06,2019,8,Kharif,15.8281,78.0373
+Groundnut,Andhra Pradesh,Kurnool,Adoni,32,64,61,2019-08-02,2019,8,Kharif,15.8281,78.0373
+Groundnut,Andhra Pradesh,Kurnool,Adoni,33,65,61,2019-08-14,2019,8,Kharif,15.8281,78.0373
+Groundnut,Andhra Pradesh,Kurnool,Adoni,38,72,71,2019-08-29,2019,8,Kharif,15.8281,78.0373
+Groundnut,Andhra Pradesh,Kurnool,Adoni,34,83,66,2019-10-01,2019,10,Kharif,15.8281,78.0373
+Groundnut,Andhra Pradesh,Kurnool,Adoni,34,65,59,2019-08-07,2019,8,Kharif,15.8281,78.0373
+Cotton,Andhra Pradesh,Kurnool,Adoni,31,60,56,2019-10-14,2019,10,Kharif,15.8281,78.0373
+Groundnut,Andhra Pradesh,Kurnool,Adoni,43,68,64,2019-08-17,2019,8,Kharif,15.8281,78.0373
+Groundnut,Andhra Pradesh,Kurnool,Adoni,35,65,62,2019-08-13,2019,8,Kharif,15.8281,78.0373
+Groundnut,Andhra Pradesh,Kurnool,Adoni,42,75,64,2019-08-21,2019,8,Kharif,15.8281,78.0373
+Groundnut,Andhra Pradesh,Kurnool,Adoni,45,70,62,2019-08-19,2019,8,Kharif,15.8281,78.0373
+Groundnut,Andhra Pradesh,Kurnool,Adoni,28,83,64,2019-10-16,2019,10,Kharif,15.8281,78.0373
+Groundnut,Andhra Pradesh,Kurnool,Adoni,28,75,56,2019-10-18,2019,10,Kharif,15.8281,78.0373
+Groundnut,Andhra Pradesh,Kurnool,Adoni,33,74,63,2019-08-26,2019,8,Kharif,15.8281,78.0373
+Groundnut,Andhra Pradesh,Kurnool,Adoni,33,74,64,2019-08-27,2019,8,Kharif,15.8281,78.0373
+Groundnut,Andhra Pradesh,Kurnool,Adoni,35,83,68,2019-10-12,2019,10,Kharif,15.8281,78.0373
+Cotton,Andhra Pradesh,Kurnool,Adoni,30,61,56,2019-10-03,2019,10,Kharif,15.8281,78.0373
+Groundnut,Andhra Pradesh,Kurnool,Adoni,33,84,66,2019-10-03,2019,10,Kharif,15.8281,78.0373
+Cotton,Andhra Pradesh,Kurnool,Adoni,47,63,61,2019-09-11,2019,9,Kharif,15.8281,78.0373
+Cotton,Andhra Pradesh,Kurnool,Adoni,31,61,56,2019-10-04,2019,10,Kharif,15.8281,78.0373
+Groundnut,Andhra Pradesh,Kurnool,Adoni,32,79,64,2019-10-05,2019,10,Kharif,15.8281,78.0373
+Groundnut,Andhra Pradesh,Kurnool,Adoni,31,82,67,2019-10-11,2019,10,Kharif,15.8281,78.0373
+Cotton,Andhra Pradesh,Kurnool,Adoni,30,61,56,2019-10-05,2019,10,Kharif,15.8281,78.0373
+Groundnut,Andhra Pradesh,Kurnool,Adoni,29,80,62,2019-10-17,2019,10,Kharif,15.8281,78.0373
+Groundnut,Andhra Pradesh,Kurnool,Adoni,37,82,66,2019-10-15,2019,10,Kharif,15.8281,78.0373
+Corriander+seed,Madhya Pradesh,Shajapur,Agar,45,83,66,2019-05-22,2019,5,Zaid,23.4272,76.2771
+Corriander+seed,Madhya Pradesh,Shajapur,Agar,45,77,68,2019-05-23,2019,5,Zaid,23.4272,76.2771
+Corriander+seed,Madhya Pradesh,Shajapur,Agar,45,75,64,2019-05-27,2019,5,Zaid,23.4272,76.2771
+Corriander+seed,Madhya Pradesh,Shajapur,Agar,45,73,62,2019-05-29,2019,5,Zaid,23.4272,76.2771
+Corriander+seed,Madhya Pradesh,Shajapur,Agar,42,67,63,2019-06-13,2019,6,Kharif,23.4272,76.2771
+Corriander+seed,Madhya Pradesh,Shajapur,Agar,40,65,59,2019-06-11,2019,6,Kharif,23.4272,76.2771
+Corriander+seed,Madhya Pradesh,Shajapur,Agar,40,66,59,2019-06-25,2019,6,Kharif,23.4272,76.2771
+Corriander+seed,Madhya Pradesh,Shajapur,Agar,45,68,57,2019-06-20,2019,6,Kharif,23.4272,76.2771
+Corriander+seed,Madhya Pradesh,Shajapur,Agar,39,67,63,2019-07-04,2019,7,Kharif,23.4272,76.2771
+Corriander+seed,Madhya Pradesh,Shajapur,Agar,40,61,56,2019-07-22,2019,7,Kharif,23.4272,76.2771
+Corriander+seed,Madhya Pradesh,Shajapur,Agar,35,64,56,2019-07-26,2019,7,Kharif,23.4272,76.2771
+Corriander+seed,Madhya Pradesh,Shajapur,Agar,50,61,56,2019-07-05,2019,7,Kharif,23.4272,76.2771
+Corriander+seed,Madhya Pradesh,Shajapur,Agar,57,58,57,2019-07-29,2019,7,Kharif,23.4272,76.2771
+Corriander+seed,Madhya Pradesh,Shajapur,Agar,50,68,61,2019-07-18,2019,7,Kharif,23.4272,76.2771
+Corriander+seed,Madhya Pradesh,Shajapur,Agar,42,67,56,2019-07-03,2019,7,Kharif,23.4272,76.2771
+Corriander+seed,Madhya Pradesh,Shajapur,Agar,41,63,56,2019-07-09,2019,7,Kharif,23.4272,76.2771
+Corriander+seed,Madhya Pradesh,Shajapur,Agar,59,59,59,2019-07-30,2019,7,Kharif,23.4272,76.2771
+Corriander+seed,Madhya Pradesh,Shajapur,Agar,41,63,59,2019-08-06,2019,8,Kharif,23.4272,76.2771
+Corriander+seed,Madhya Pradesh,Shajapur,Agar,40,61,56,2019-08-02,2019,8,Kharif,23.4272,76.2771
+Corriander+seed,Madhya Pradesh,Shajapur,Agar,61,61,61,2019-08-07,2019,8,Kharif,23.4272,76.2771
+Corriander+seed,Madhya Pradesh,Shajapur,Agar,43,64,59,2019-08-13,2019,8,Kharif,23.4272,76.2771
+Corriander+seed,Madhya Pradesh,Shajapur,Agar,40,64,57,2019-12-19,2019,12,Rabi,23.4272,76.2771
+Corriander+seed,Madhya Pradesh,Shajapur,Agar,53,67,61,2019-11-22,2019,11,Rabi,23.4272,76.2771
+Corriander+seed,Madhya Pradesh,Shajapur,Agar,40,63,56,2019-12-23,2019,12,Rabi,23.4272,76.2771
+Corriander+seed,Madhya Pradesh,Shajapur,Agar,50,66,59,2019-11-25,2019,11,Rabi,23.4272,76.2771
+Corriander+seed,Madhya Pradesh,Shajapur,Agar,40,71,64,2021-03-06,2021,3,Rabi,23.4272,76.2771
+Corriander+seed,Madhya Pradesh,Shajapur,Agar,40,82,66,2021-03-09,2021,3,Rabi,23.4272,76.2771
+Corriander+seed,Madhya Pradesh,Shajapur,Agar,41,75,64,2021-03-10,2021,3,Rabi,23.4272,76.2771
+Corriander+seed,Madhya Pradesh,Shajapur,Agar,40,78,61,2021-03-12,2021,3,Rabi,23.4272,76.2771
+Corriander+seed,Madhya Pradesh,Shajapur,Agar,41,85,68,2021-03-16,2021,3,Rabi,23.4272,76.2771
+Corriander+seed,Madhya Pradesh,Shajapur,Agar,42,69,63,2021-03-26,2021,3,Rabi,23.4272,76.2771
+Corriander+seed,Madhya Pradesh,Shajapur,Agar,40,74,66,2021-03-23,2021,3,Rabi,23.4272,76.2771
+Corriander+seed,Madhya Pradesh,Shajapur,Agar,41,74,64,2021-03-24,2021,3,Rabi,23.4272,76.2771
+Methi+Seeds,Madhya Pradesh,Shajapur,Agar,42,61,59,2021-04-16,2021,4,Zaid,23.4272,76.2771
+Mustard,Madhya Pradesh,Shajapur,Agar,50,64,63,2021-04-16,2021,4,Zaid,23.4272,76.2771
+Soyabean,Madhya Pradesh,Shajapur,Agar,45,65,64,2021-04-06,2021,4,Zaid,23.4272,76.2771
+Methi+Seeds,Madhya Pradesh,Shajapur,Agar,57,59,57,2021-07-12,2021,7,Kharif,23.4272,76.2771
+Mustard,Madhya Pradesh,Shajapur,Agar,45,62,59,2021-07-12,2021,7,Kharif,23.4272,76.2771
+Soyabean,Madhya Pradesh,Shajapur,Agar,45,65,64,2021-04-07,2021,4,Zaid,23.4272,76.2771
+Corriander+seed,Madhya Pradesh,Shajapur,Agar,41,72,68,2021-03-04,2021,3,Rabi,23.4272,76.2771
+Corriander+seed,Madhya Pradesh,Shajapur,Agar,40,82,67,2021-03-05,2021,3,Rabi,23.4272,76.2771
+Soyabean,Madhya Pradesh,Shajapur,Agar,53,97,95,2021-07-29,2021,7,Kharif,23.4272,76.2771
+Apple,Uttar Pradesh,Agra,Agra,71,74,72,2019-05-22,2019,5,Zaid,27.1767,78.0081
+Arhar+Dal(Tur+Dal),Uttar Pradesh,Agra,Agra,70,72,71,2019-05-22,2019,5,Zaid,27.1767,78.0081
+Masur+Dal,Uttar Pradesh,Agra,Agra,58,60,59,2019-05-22,2019,5,Zaid,27.1767,78.0081
+Apple,Uttar Pradesh,Agra,Agra,72,75,73,2019-05-24,2019,5,Zaid,27.1767,78.0081
+Arhar+Dal(Tur+Dal),Uttar Pradesh,Agra,Agra,70,72,71,2019-05-24,2019,5,Zaid,27.1767,78.0081
+Apple,Uttar Pradesh,Agra,Agra,70,74,72,2019-05-25,2019,5,Zaid,27.1767,78.0081
+Masur+Dal,Uttar Pradesh,Agra,Agra,58,60,59,2019-05-24,2019,5,Zaid,27.1767,78.0081
+Apple,Uttar Pradesh,Agra,Agra,71,74,73,2019-05-28,2019,5,Zaid,27.1767,78.0081
+Arhar+Dal(Tur+Dal),Uttar Pradesh,Agra,Agra,75,78,76,2019-05-28,2019,5,Zaid,27.1767,78.0081
+Apple,Uttar Pradesh,Agra,Agra,72,75,73,2019-05-29,2019,5,Zaid,27.1767,78.0081
+Arhar+Dal(Tur+Dal),Uttar Pradesh,Agra,Agra,75,77,76,2019-05-29,2019,5,Zaid,27.1767,78.0081
+Masur+Dal,Uttar Pradesh,Agra,Agra,57,60,59,2019-05-25,2019,5,Zaid,27.1767,78.0081
+Arhar+Dal(Tur+Dal),Uttar Pradesh,Agra,Agra,79,81,80,2019-06-10,2019,6,Kharif,27.1767,78.0081
+Apple,Uttar Pradesh,Agra,Agra,71,74,73,2019-05-27,2019,5,Zaid,27.1767,78.0081
+Arhar+Dal(Tur+Dal),Uttar Pradesh,Agra,Agra,74,77,76,2019-05-27,2019,5,Zaid,27.1767,78.0081
+Apple,Uttar Pradesh,Agra,Agra,76,78,77,2019-06-11,2019,6,Kharif,27.1767,78.0081
+Masur+Dal,Uttar Pradesh,Agra,Agra,67,70,68,2019-05-28,2019,5,Zaid,27.1767,78.0081
+Masur+Dal,Uttar Pradesh,Agra,Agra,65,68,66,2019-05-27,2019,5,Zaid,27.1767,78.0081
+Arhar+Dal(Tur+Dal),Uttar Pradesh,Agra,Agra,79,81,80,2019-06-11,2019,6,Kharif,27.1767,78.0081
+Masur+Dal,Uttar Pradesh,Agra,Agra,69,71,70,2019-06-10,2019,6,Kharif,27.1767,78.0081
+Masur+Dal,Uttar Pradesh,Agra,Agra,68,70,69,2019-05-29,2019,5,Zaid,27.1767,78.0081
+Masur+Dal,Uttar Pradesh,Agra,Agra,68,70,69,2019-05-30,2019,5,Zaid,27.1767,78.0081
+Apple,Uttar Pradesh,Agra,Agra,77,80,78,2019-06-19,2019,6,Kharif,27.1767,78.0081
+Arhar+Dal(Tur+Dal),Uttar Pradesh,Agra,Agra,80,82,81,2019-06-19,2019,6,Kharif,27.1767,78.0081
+Masur+Dal,Uttar Pradesh,Agra,Agra,69,71,70,2019-06-13,2019,6,Kharif,27.1767,78.0081
+Apple,Uttar Pradesh,Agra,Agra,77,80,79,2019-07-10,2019,7,Kharif,27.1767,78.0081
+Apple,Uttar Pradesh,Agra,Agra,77,80,78,2019-07-09,2019,7,Kharif,27.1767,78.0081
+Apple,Uttar Pradesh,Agra,Agra,75,78,77,2019-06-12,2019,6,Kharif,27.1767,78.0081
+Arhar+Dal(Tur+Dal),Uttar Pradesh,Agra,Agra,49,82,81,2019-06-12,2019,6,Kharif,27.1767,78.0081
+Arhar+Dal(Tur+Dal),Uttar Pradesh,Agra,Agra,80,83,81,2019-07-10,2019,7,Kharif,27.1767,78.0081
+Masur+Dal,Uttar Pradesh,Agra,Agra,69,71,70,2019-06-15,2019,6,Kharif,27.1767,78.0081
+Arhar+Dal(Tur+Dal),Uttar Pradesh,Agra,Agra,80,82,80,2019-06-20,2019,6,Kharif,27.1767,78.0081
+Apple,Uttar Pradesh,Agra,Agra,76,78,77,2019-06-13,2019,6,Kharif,27.1767,78.0081
+Arhar+Dal(Tur+Dal),Uttar Pradesh,Agra,Agra,79,81,80,2019-06-13,2019,6,Kharif,27.1767,78.0081
+Masur+Dal,Uttar Pradesh,Agra,Agra,68,70,69,2019-06-12,2019,6,Kharif,27.1767,78.0081
+Masur+Dal,Uttar Pradesh,Agra,Agra,69,71,70,2019-06-14,2019,6,Kharif,27.1767,78.0081
+Apple,Uttar Pradesh,Agra,Agra,79,82,81,2019-07-23,2019,7,Kharif,27.1767,78.0081
+Masur+Dal,Uttar Pradesh,Agra,Agra,65,67,66,2019-06-28,2019,6,Kharif,27.1767,78.0081
+Apple,Uttar Pradesh,Agra,Agra,76,79,77,2019-06-17,2019,6,Kharif,27.1767,78.0081
+Arhar+Dal(Tur+Dal),Uttar Pradesh,Agra,Agra,79,81,80,2019-06-17,2019,6,Kharif,27.1767,78.0081
+Masur+Dal,Uttar Pradesh,Agra,Agra,68,70,69,2019-07-01,2019,7,Kharif,27.1767,78.0081
+Apple,Uttar Pradesh,Agra,Agra,76,79,77,2019-06-15,2019,6,Kharif,27.1767,78.0081
+Arhar+Dal(Tur+Dal),Uttar Pradesh,Agra,Agra,70,90,80,2019-06-15,2019,6,Kharif,27.1767,78.0081
+Masur+Dal,Uttar Pradesh,Agra,Agra,68,70,69,2019-06-17,2019,6,Kharif,27.1767,78.0081
+Masur+Dal,Uttar Pradesh,Agra,Agra,67,69,68,2019-06-19,2019,6,Kharif,27.1767,78.0081
+Apple,Uttar Pradesh,Agra,Agra,77,79,78,2019-06-18,2019,6,Kharif,27.1767,78.0081
+Arhar+Dal(Tur+Dal),Uttar Pradesh,Agra,Agra,79,82,81,2019-06-18,2019,6,Kharif,27.1767,78.0081
+Masur+Dal,Uttar Pradesh,Agra,Agra,67,69,68,2019-06-18,2019,6,Kharif,27.1767,78.0081
+Masur+Dal,Uttar Pradesh,Agra,Agra,65,67,66,2019-06-25,2019,6,Kharif,27.1767,78.0081
+Apple,Uttar Pradesh,Agra,Agra,76,79,77,2019-06-21,2019,6,Kharif,27.1767,78.0081
+Arhar+Dal(Tur+Dal),Uttar Pradesh,Agra,Agra,80,82,81,2019-06-21,2019,6,Kharif,27.1767,78.0081
+Apple,Uttar Pradesh,Agra,Agra,77,79,78,2019-06-24,2019,6,Kharif,27.1767,78.0081
+Arhar+Dal(Tur+Dal),Uttar Pradesh,Agra,Agra,80,82,81,2019-06-24,2019,6,Kharif,27.1767,78.0081
+Masur+Dal,Uttar Pradesh,Agra,Agra,67,69,68,2019-06-20,2019,6,Kharif,27.1767,78.0081
+Apple,Uttar Pradesh,Agra,Agra,77,79,78,2019-06-22,2019,6,Kharif,27.1767,78.0081
+Masur+Dal,Uttar Pradesh,Agra,Agra,65,67,66,2019-06-21,2019,6,Kharif,27.1767,78.0081
+Apple,Uttar Pradesh,Agra,Agra,79,83,81,2019-08-05,2019,8,Kharif,27.1767,78.0081
+Apple,Uttar Pradesh,Agra,Agra,78,80,78,2019-07-06,2019,7,Kharif,27.1767,78.0081
+Arhar+Dal(Tur+Dal),Uttar Pradesh,Agra,Agra,80,82,81,2019-07-06,2019,7,Kharif,27.1767,78.0081
+Apple,Uttar Pradesh,Agra,Agra,77,80,79,2019-07-03,2019,7,Kharif,27.1767,78.0081
+Masur+Dal,Uttar Pradesh,Agra,Agra,65,67,66,2019-06-24,2019,6,Kharif,27.1767,78.0081
+Apple,Uttar Pradesh,Agra,Agra,77,79,78,2019-06-27,2019,6,Kharif,27.1767,78.0081
+Apple,Uttar Pradesh,Agra,Agra,77,79,78,2019-06-28,2019,6,Kharif,27.1767,78.0081
+Apple,Uttar Pradesh,Agra,Agra,79,82,81,2019-07-22,2019,7,Kharif,27.1767,78.0081
+Apple,Uttar Pradesh,Agra,Agra,76,80,79,2019-07-08,2019,7,Kharif,27.1767,78.0081
+Arhar+Dal(Tur+Dal),Uttar Pradesh,Agra,Agra,80,83,81,2019-07-08,2019,7,Kharif,27.1767,78.0081
+Masur+Dal,Uttar Pradesh,Agra,Agra,68,70,69,2019-07-02,2019,7,Kharif,27.1767,78.0081
+Apple,Uttar Pradesh,Agra,Agra,77,79,77,2019-06-29,2019,6,Kharif,27.1767,78.0081
+Arhar+Dal(Tur+Dal),Uttar Pradesh,Agra,Agra,79,82,81,2019-07-04,2019,7,Kharif,27.1767,78.0081
+Apple,Uttar Pradesh,Agra,Agra,77,81,79,2019-07-04,2019,7,Kharif,27.1767,78.0081
+Arhar+Dal(Tur+Dal),Uttar Pradesh,Agra,Agra,79,82,81,2019-07-02,2019,7,Kharif,27.1767,78.0081
+Arhar+Dal(Tur+Dal),Uttar Pradesh,Agra,Agra,79,82,81,2019-07-01,2019,7,Kharif,27.1767,78.0081
+Apple,Uttar Pradesh,Agra,Agra,80,82,81,2019-07-26,2019,7,Kharif,27.1767,78.0081
+Masur+Dal,Uttar Pradesh,Agra,Agra,67,70,69,2019-07-04,2019,7,Kharif,27.1767,78.0081
+Masur+Dal,Uttar Pradesh,Agra,Agra,68,70,69,2019-07-06,2019,7,Kharif,27.1767,78.0081
+Apple,Uttar Pradesh,Agra,Agra,78,80,79,2019-07-05,2019,7,Kharif,27.1767,78.0081
+Apple,Uttar Pradesh,Agra,Agra,80,83,82,2019-07-20,2019,7,Kharif,27.1767,78.0081
+Masur+Dal,Uttar Pradesh,Agra,Agra,68,70,68,2019-07-19,2019,7,Kharif,27.1767,78.0081
+Masur+Dal,Uttar Pradesh,Agra,Agra,67,70,69,2019-07-08,2019,7,Kharif,27.1767,78.0081
+Masur+Dal,Uttar Pradesh,Agra,Agra,67,70,68,2019-07-10,2019,7,Kharif,27.1767,78.0081
+Masur+Dal,Uttar Pradesh,Agra,Agra,64,67,66,2019-07-26,2019,7,Kharif,27.1767,78.0081
+Masur+Dal,Uttar Pradesh,Agra,Agra,66,68,67,2019-07-20,2019,7,Kharif,27.1767,78.0081
+Apple,Uttar Pradesh,Agra,Agra,80,82,80,2019-07-18,2019,7,Kharif,27.1767,78.0081
+Arhar+Dal(Tur+Dal),Uttar Pradesh,Agra,Agra,80,82,82,2019-08-01,2019,8,Kharif,27.1767,78.0081
+Apple,Uttar Pradesh,Agra,Agra,80,82,81,2019-07-19,2019,7,Kharif,27.1767,78.0081
+Masur+Dal,Uttar Pradesh,Agra,Agra,65,68,67,2019-07-22,2019,7,Kharif,27.1767,78.0081
+Masur+Dal,Uttar Pradesh,Agra,Agra,66,68,67,2019-07-25,2019,7,Kharif,27.1767,78.0081
+Arhar+Dal(Tur+Dal),Uttar Pradesh,Agra,Agra,80,82,81,2019-07-27,2019,7,Kharif,27.1767,78.0081
+Masur+Dal,Uttar Pradesh,Agra,Agra,66,68,67,2019-07-23,2019,7,Kharif,27.1767,78.0081
+Masur+Dal,Uttar Pradesh,Agra,Agra,66,69,67,2019-08-07,2019,8,Kharif,27.1767,78.0081
+Apple,Uttar Pradesh,Agra,Agra,78,81,80,2019-07-31,2019,7,Kharif,27.1767,78.0081
+Apple,Uttar Pradesh,Agra,Agra,79,82,81,2019-07-24,2019,7,Kharif,27.1767,78.0081
+Apple,Uttar Pradesh,Agra,Agra,79,83,81,2019-08-06,2019,8,Kharif,27.1767,78.0081
+Arhar+Dal(Tur+Dal),Uttar Pradesh,Agra,Agra,81,83,82,2019-08-03,2019,8,Kharif,27.1767,78.0081
+Apple,Uttar Pradesh,Agra,Agra,78,82,80,2019-07-25,2019,7,Kharif,27.1767,78.0081
+Arhar+Dal(Tur+Dal),Uttar Pradesh,Agra,Agra,79,82,80,2019-07-25,2019,7,Kharif,27.1767,78.0081
+Masur+Dal,Uttar Pradesh,Agra,Agra,66,69,68,2019-07-31,2019,7,Kharif,27.1767,78.0081
+Masur+Dal,Uttar Pradesh,Agra,Agra,65,68,67,2019-08-03,2019,8,Kharif,27.1767,78.0081
+Apple,Uttar Pradesh,Agra,Agra,73,76,75,2019-08-09,2019,8,Kharif,27.1767,78.0081
+Garlic,Uttar Pradesh,Agra,Agra,61,64,63,2019-09-19,2019,9,Kharif,27.1767,78.0081
+Apple,Uttar Pradesh,Agra,Agra,82,84,83,2019-07-29,2019,7,Kharif,27.1767,78.0081
+Masur+Dal,Uttar Pradesh,Agra,Agra,65,68,67,2019-08-01,2019,8,Kharif,27.1767,78.0081
+Apple,Uttar Pradesh,Agra,Agra,78,81,79,2019-08-02,2019,8,Kharif,27.1767,78.0081
+Arhar+Dal(Tur+Dal),Uttar Pradesh,Agra,Agra,81,83,82,2019-08-02,2019,8,Kharif,27.1767,78.0081
+Masur+Dal,Uttar Pradesh,Agra,Agra,67,69,67,2019-08-14,2019,8,Kharif,27.1767,78.0081
+Masur+Dal,Uttar Pradesh,Agra,Agra,65,68,66,2019-08-02,2019,8,Kharif,27.1767,78.0081
+Masur+Dal,Uttar Pradesh,Agra,Agra,69,71,70,2019-09-19,2019,9,Kharif,27.1767,78.0081
+Apple,Uttar Pradesh,Agra,Agra,60,63,62,2019-08-17,2019,8,Kharif,27.1767,78.0081
+Arhar+Dal(Tur+Dal),Uttar Pradesh,Agra,Agra,79,81,80,2019-08-17,2019,8,Kharif,27.1767,78.0081
+Masur+Dal,Uttar Pradesh,Agra,Agra,68,70,69,2019-09-03,2019,9,Kharif,27.1767,78.0081
+Arhar+Dal(Tur+Dal),Uttar Pradesh,Agra,Agra,79,82,80,2019-09-21,2019,9,Kharif,27.1767,78.0081
+Apple,Uttar Pradesh,Agra,Agra,54,58,56,2019-08-20,2019,8,Kharif,27.1767,78.0081
+Apple,Uttar Pradesh,Agra,Agra,76,79,77,2019-08-08,2019,8,Kharif,27.1767,78.0081
+Arhar+Dal(Tur+Dal),Uttar Pradesh,Agra,Agra,81,82,81,2019-11-21,2019,11,Rabi,27.1767,78.0081
+Apple,Uttar Pradesh,Agra,Agra,67,70,68,2019-08-13,2019,8,Kharif,27.1767,78.0081
+Garlic,Uttar Pradesh,Agra,Agra,64,67,66,2019-09-21,2019,9,Kharif,27.1767,78.0081
+Apple,Uttar Pradesh,Agra,Agra,66,68,67,2019-08-14,2019,8,Kharif,27.1767,78.0081
+Masur+Dal,Uttar Pradesh,Agra,Agra,65,67,66,2019-08-13,2019,8,Kharif,27.1767,78.0081
+Masur+Dal,Uttar Pradesh,Agra,Agra,68,71,70,2019-09-21,2019,9,Kharif,27.1767,78.0081
+Masur+Dal,Uttar Pradesh,Agra,Agra,65,68,67,2019-08-21,2019,8,Kharif,27.1767,78.0081
+Arhar+Dal(Tur+Dal),Uttar Pradesh,Agra,Agra,83,86,85,2019-11-27,2019,11,Rabi,27.1767,78.0081
+Garlic,Uttar Pradesh,Agra,Agra,59,62,61,2019-09-18,2019,9,Kharif,27.1767,78.0081
+Arhar+Dal(Tur+Dal),Uttar Pradesh,Agra,Agra,84,87,86,2019-11-29,2019,11,Rabi,27.1767,78.0081
+Arhar+Dal(Tur+Dal),Uttar Pradesh,Agra,Agra,81,83,82,2019-08-30,2019,8,Kharif,27.1767,78.0081
+Masur+Dal,Uttar Pradesh,Agra,Agra,69,72,70,2019-09-04,2019,9,Kharif,27.1767,78.0081
+Arhar+Dal(Tur+Dal),Uttar Pradesh,Agra,Agra,79,82,81,2019-08-26,2019,8,Kharif,27.1767,78.0081
+Masur+Dal,Uttar Pradesh,Agra,Agra,66,68,67,2019-08-26,2019,8,Kharif,27.1767,78.0081
+Arhar+Dal(Tur+Dal),Uttar Pradesh,Agra,Agra,81,83,82,2019-09-03,2019,9,Kharif,27.1767,78.0081
+Arhar+Dal(Tur+Dal),Uttar Pradesh,Agra,Agra,86,88,87,2019-12-10,2019,12,Rabi,27.1767,78.0081
+Masur+Dal,Uttar Pradesh,Agra,Agra,65,68,66,2019-08-24,2019,8,Kharif,27.1767,78.0081
+Garlic,Uttar Pradesh,Agra,Agra,58,60,59,2019-09-17,2019,9,Kharif,27.1767,78.0081
+Masur+Dal,Uttar Pradesh,Agra,Agra,66,68,67,2019-08-27,2019,8,Kharif,27.1767,78.0081
+Arhar+Dal(Tur+Dal),Uttar Pradesh,Agra,Agra,81,83,82,2019-09-05,2019,9,Kharif,27.1767,78.0081
+Masur+Dal,Uttar Pradesh,Agra,Agra,66,69,67,2019-08-29,2019,8,Kharif,27.1767,78.0081
+Arhar+Dal(Tur+Dal),Uttar Pradesh,Agra,Agra,80,83,82,2019-08-28,2019,8,Kharif,27.1767,78.0081
+Masur+Dal,Uttar Pradesh,Agra,Agra,69,72,70,2019-09-05,2019,9,Kharif,27.1767,78.0081
+Masur+Dal,Uttar Pradesh,Agra,Agra,63,65,64,2019-11-01,2019,11,Rabi,27.1767,78.0081
+Garlic,Uttar Pradesh,Agra,Agra,61,63,62,2019-09-20,2019,9,Kharif,27.1767,78.0081
+Arhar+Dal(Tur+Dal),Uttar Pradesh,Agra,Agra,79,82,80,2019-10-30,2019,10,Kharif,27.1767,78.0081
+Garlic,Uttar Pradesh,Agra,Agra,69,72,71,2019-09-26,2019,9,Kharif,27.1767,78.0081
+Masur+Dal,Uttar Pradesh,Agra,Agra,64,67,66,2019-09-26,2019,9,Kharif,27.1767,78.0081
+Arhar+Dal(Tur+Dal),Uttar Pradesh,Agra,Agra,79,82,81,2019-11-02,2019,11,Rabi,27.1767,78.0081
+Masur+Dal,Uttar Pradesh,Agra,Agra,68,71,69,2019-09-17,2019,9,Kharif,27.1767,78.0081
+Arhar+Dal(Tur+Dal),Uttar Pradesh,Agra,Agra,79,81,80,2019-09-26,2019,9,Kharif,27.1767,78.0081
+Arhar+Dal(Tur+Dal),Uttar Pradesh,Agra,Agra,84,86,85,2019-11-28,2019,11,Rabi,27.1767,78.0081
+Arhar+Dal(Tur+Dal),Uttar Pradesh,Agra,Agra,80,81,80,2019-09-13,2019,9,Kharif,27.1767,78.0081
+Garlic,Uttar Pradesh,Agra,Agra,68,70,69,2019-09-25,2019,9,Kharif,27.1767,78.0081
+Masur+Dal,Uttar Pradesh,Agra,Agra,66,68,67,2019-11-07,2019,11,Rabi,27.1767,78.0081
+Arhar+Dal(Tur+Dal),Uttar Pradesh,Agra,Agra,80,82,81,2019-10-05,2019,10,Kharif,27.1767,78.0081
+Arhar+Dal(Tur+Dal),Uttar Pradesh,Agra,Agra,79,82,80,2019-09-25,2019,9,Kharif,27.1767,78.0081
+Masur+Dal,Uttar Pradesh,Agra,Agra,69,72,70,2019-11-28,2019,11,Rabi,27.1767,78.0081
+Arhar+Dal(Tur+Dal),Uttar Pradesh,Agra,Agra,79,82,80,2019-09-27,2019,9,Kharif,27.1767,78.0081
+Garlic,Uttar Pradesh,Agra,Agra,65,68,67,2019-09-24,2019,9,Kharif,27.1767,78.0081
+Masur+Dal,Uttar Pradesh,Agra,Agra,68,71,70,2019-09-24,2019,9,Kharif,27.1767,78.0081
+Arhar+Dal(Tur+Dal),Uttar Pradesh,Agra,Agra,80,82,81,2019-10-18,2019,10,Kharif,27.1767,78.0081
+Masur+Dal,Uttar Pradesh,Agra,Agra,76,77,76,2019-12-23,2019,12,Rabi,27.1767,78.0081
+Garlic,Uttar Pradesh,Agra,Agra,66,68,67,2019-09-23,2019,9,Kharif,27.1767,78.0081
+Masur+Dal,Uttar Pradesh,Agra,Agra,68,71,69,2019-09-23,2019,9,Kharif,27.1767,78.0081
+Arhar+Dal(Tur+Dal),Uttar Pradesh,Agra,Agra,79,83,81,2019-10-16,2019,10,Kharif,27.1767,78.0081
+Arhar+Dal(Tur+Dal),Uttar Pradesh,Agra,Agra,83,85,84,2019-11-26,2019,11,Rabi,27.1767,78.0081
+Masur+Dal,Uttar Pradesh,Agra,Agra,64,68,66,2019-10-22,2019,10,Kharif,27.1767,78.0081
+Masur+Dal,Uttar Pradesh,Agra,Agra,65,68,66,2019-11-05,2019,11,Rabi,27.1767,78.0081
+Masur+Dal,Uttar Pradesh,Agra,Agra,66,68,67,2019-11-20,2019,11,Rabi,27.1767,78.0081
+Arhar+Dal(Tur+Dal),Uttar Pradesh,Agra,Agra,80,82,81,2019-10-25,2019,10,Kharif,27.1767,78.0081
+Masur+Dal,Uttar Pradesh,Agra,Agra,73,76,74,2019-12-07,2019,12,Rabi,27.1767,78.0081
+Arhar+Dal(Tur+Dal),Uttar Pradesh,Agra,Agra,83,85,84,2019-11-25,2019,11,Rabi,27.1767,78.0081
+Arhar+Dal(Tur+Dal),Uttar Pradesh,Agra,Agra,81,83,82,2019-11-20,2019,11,Rabi,27.1767,78.0081
+Masur+Dal,Uttar Pradesh,Agra,Agra,70,73,71,2019-12-04,2019,12,Rabi,27.1767,78.0081
+Arhar+Dal(Tur+Dal),Uttar Pradesh,Agra,Agra,89,91,90,2019-12-13,2019,12,Rabi,27.1767,78.0081
+Arhar+Dal(Tur+Dal),Uttar Pradesh,Agra,Agra,86,88,87,2019-12-07,2019,12,Rabi,27.1767,78.0081
+Arhar+Dal(Tur+Dal),Uttar Pradesh,Agra,Agra,82,84,83,2019-11-22,2019,11,Rabi,27.1767,78.0081
+Arhar+Dal(Tur+Dal),Uttar Pradesh,Agra,Agra,83,85,84,2019-11-23,2019,11,Rabi,27.1767,78.0081
+Masur+Dal,Uttar Pradesh,Agra,Agra,65,67,66,2019-11-13,2019,11,Rabi,27.1767,78.0081
+Arhar+Dal(Tur+Dal),Uttar Pradesh,Agra,Agra,80,83,81,2019-11-15,2019,11,Rabi,27.1767,78.0081
+Masur+Dal,Uttar Pradesh,Agra,Agra,74,77,76,2019-12-13,2019,12,Rabi,27.1767,78.0081
+Masur+Dal,Uttar Pradesh,Agra,Agra,74,76,75,2019-12-10,2019,12,Rabi,27.1767,78.0081
+Arhar+Dal(Tur+Dal),Uttar Pradesh,Agra,Agra,84,87,86,2019-12-02,2019,12,Rabi,27.1767,78.0081
+Masur+Dal,Uttar Pradesh,Agra,Agra,69,72,71,2019-11-30,2019,11,Rabi,27.1767,78.0081
+Arhar+Dal(Tur+Dal),Uttar Pradesh,Agra,Agra,80,91,90,2019-12-16,2019,12,Rabi,27.1767,78.0081
+Masur+Dal,Uttar Pradesh,Agra,Agra,66,68,67,2019-11-21,2019,11,Rabi,27.1767,78.0081
+Arhar+Dal(Tur+Dal),Uttar Pradesh,Agra,Agra,85,87,86,2019-11-30,2019,11,Rabi,27.1767,78.0081
+Masur+Dal,Uttar Pradesh,Agra,Agra,73,75,74,2019-12-06,2019,12,Rabi,27.1767,78.0081
+Masur+Dal,Uttar Pradesh,Agra,Agra,72,75,74,2019-12-05,2019,12,Rabi,27.1767,78.0081
+Masur+Dal,Uttar Pradesh,Agra,Agra,75,77,76,2019-12-16,2019,12,Rabi,27.1767,78.0081
+Masur+Dal,Uttar Pradesh,Agra,Agra,69,72,71,2019-11-29,2019,11,Rabi,27.1767,78.0081
+Arhar+Dal(Tur+Dal),Uttar Pradesh,Agra,Agra,88,91,90,2019-12-17,2019,12,Rabi,27.1767,78.0081
+Arhar+Dal(Tur+Dal),Uttar Pradesh,Agra,Agra,86,89,88,2019-12-30,2019,12,Rabi,27.1767,78.0081
+Masur+Dal,Uttar Pradesh,Agra,Agra,74,77,76,2019-12-30,2019,12,Rabi,27.1767,78.0081
+Arhar+Dal(Tur+Dal),Uttar Pradesh,Agra,Agra,85,88,87,2019-12-05,2019,12,Rabi,27.1767,78.0081
+Arhar+Dal(Tur+Dal),Uttar Pradesh,Agra,Agra,86,88,87,2019-12-06,2019,12,Rabi,27.1767,78.0081
+Masur+Dal,Uttar Pradesh,Agra,Agra,75,78,76,2019-12-17,2019,12,Rabi,27.1767,78.0081
+Arhar+Dal(Tur+Dal),Uttar Pradesh,Agra,Agra,79,92,90,2019-12-18,2019,12,Rabi,27.1767,78.0081
+Masur+Dal,Uttar Pradesh,Agra,Agra,75,78,77,2019-12-18,2019,12,Rabi,27.1767,78.0081
+Arhar+Dal(Tur+Dal),Uttar Pradesh,Agra,Agra,86,89,87,2019-12-09,2019,12,Rabi,27.1767,78.0081
+Arhar+Dal(Tur+Dal),Uttar Pradesh,Agra,Agra,89,91,90,2019-12-24,2019,12,Rabi,27.1767,78.0081
+Masur+Dal,Uttar Pradesh,Agra,Agra,73,76,75,2019-12-09,2019,12,Rabi,27.1767,78.0081
+Masur+Dal,Uttar Pradesh,Agra,Agra,76,78,76,2019-12-24,2019,12,Rabi,27.1767,78.0081
+Arhar+Dal(Tur+Dal),Uttar Pradesh,Agra,Agra,87,89,88,2019-12-31,2019,12,Rabi,27.1767,78.0081
+Arhar+Dal(Tur+Dal),Uttar Pradesh,Agra,Agra,88,91,90,2019-12-19,2019,12,Rabi,27.1767,78.0081
+Masur+Dal,Uttar Pradesh,Agra,Agra,75,78,76,2019-12-19,2019,12,Rabi,27.1767,78.0081
+Arhar+Dal(Tur+Dal),Uttar Pradesh,Agra,Agra,89,91,90,2019-12-28,2019,12,Rabi,27.1767,78.0081
+Arhar+Dal(Tur+Dal),Uttar Pradesh,Agra,Agra,86,89,88,2019-12-28,2019,12,Rabi,27.1767,78.0081
+Masur+Dal,Uttar Pradesh,Agra,Agra,75,77,76,2019-12-31,2019,12,Rabi,27.1767,78.0081
+Apple,Uttar Pradesh,Agra,Agra,57,60,59,2021-03-02,2021,3,Rabi,27.1767,78.0081
+Apple,Uttar Pradesh,Agra,Agra,62,65,63,2021-03-08,2021,3,Rabi,27.1767,78.0081
+Apple,Uttar Pradesh,Agra,Agra,62,65,63,2021-03-09,2021,3,Rabi,27.1767,78.0081
+Apple,Uttar Pradesh,Agra,Agra,62,65,64,2021-03-16,2021,3,Rabi,27.1767,78.0081
+Apple,Uttar Pradesh,Agra,Agra,77,80,79,2021-05-05,2021,5,Zaid,27.1767,78.0081
+Apple,Uttar Pradesh,Agra,Agra,86,88,87,2021-05-17,2021,5,Zaid,27.1767,78.0081
+Arhar+Dal(Tur+Dal),Uttar Pradesh,Agra,Agra,98,100,99,2021-05-17,2021,5,Zaid,27.1767,78.0081
+Apple,Uttar Pradesh,Agra,Agra,91,94,93,2021-07-07,2021,7,Kharif,27.1767,78.0081
+Apple,Uttar Pradesh,Agra,Agra,91,94,93,2021-07-12,2021,7,Kharif,27.1767,78.0081
+Mustard,Uttar Pradesh,Agra,Agra,65,67,66,2021-05-17,2021,5,Zaid,27.1767,78.0081
+Apple,Uttar Pradesh,Agra,Agra,62,65,64,2021-03-18,2021,3,Rabi,27.1767,78.0081
+Pomegranate,Uttar Pradesh,Agra,Agra,57,60,59,2021-05-11,2021,5,Zaid,27.1767,78.0081
+Masur+Dal,Uttar Pradesh,Agra,Agra,91,93,92,2021-05-06,2021,5,Zaid,27.1767,78.0081
+Apple,Uttar Pradesh,Agra,Agra,84,87,85,2021-05-11,2021,5,Zaid,27.1767,78.0081
+Arhar+Dal(Tur+Dal),Uttar Pradesh,Agra,Agra,97,100,99,2021-05-11,2021,5,Zaid,27.1767,78.0081
+Masur+Dal,Uttar Pradesh,Agra,Agra,84,87,85,2021-07-22,2021,7,Kharif,27.1767,78.0081
+Masur+Dal,Uttar Pradesh,Agra,Agra,89,92,90,2021-07-03,2021,7,Kharif,27.1767,78.0081
+Mustard,Uttar Pradesh,Agra,Agra,60,62,61,2021-07-03,2021,7,Kharif,27.1767,78.0081
+Masur+Dal,Uttar Pradesh,Agra,Agra,86,88,86,2021-03-25,2021,3,Rabi,27.1767,78.0081
+Mustard,Uttar Pradesh,Agra,Agra,59,62,61,2021-07-13,2021,7,Kharif,27.1767,78.0081
+Pomegranate,Uttar Pradesh,Agra,Agra,54,57,56,2021-07-22,2021,7,Kharif,27.1767,78.0081
+Masur+Dal,Uttar Pradesh,Agra,Agra,86,88,87,2021-03-19,2021,3,Rabi,27.1767,78.0081
+Pomegranate,Uttar Pradesh,Agra,Agra,55,58,56,2021-04-23,2021,4,Zaid,27.1767,78.0081
+Garlic,Uttar Pradesh,Agra,Agra,67,69,68,2021-03-10,2021,3,Rabi,27.1767,78.0081
+Apple,Uttar Pradesh,Agra,Agra,91,94,93,2021-07-08,2021,7,Kharif,27.1767,78.0081
+Apple,Uttar Pradesh,Agra,Agra,77,80,78,2021-05-03,2021,5,Zaid,27.1767,78.0081
+Masur+Dal,Uttar Pradesh,Agra,Agra,90,93,91,2021-04-23,2021,4,Zaid,27.1767,78.0081
+Mustard,Uttar Pradesh,Agra,Agra,62,64,63,2021-07-29,2021,7,Kharif,27.1767,78.0081
+Apple,Uttar Pradesh,Agra,Agra,85,88,86,2021-05-19,2021,5,Zaid,27.1767,78.0081
+Arhar+Dal(Tur+Dal),Uttar Pradesh,Agra,Agra,98,100,99,2021-05-19,2021,5,Zaid,27.1767,78.0081
+Masur+Dal,Uttar Pradesh,Agra,Agra,90,92,91,2021-05-19,2021,5,Zaid,27.1767,78.0081
+Apple,Uttar Pradesh,Agra,Agra,62,65,64,2021-03-10,2021,3,Rabi,27.1767,78.0081
+Garlic,Uttar Pradesh,Agra,Agra,66,69,68,2021-03-05,2021,3,Rabi,27.1767,78.0081
+Apple,Uttar Pradesh,Agra,Agra,89,92,91,2021-07-22,2021,7,Kharif,27.1767,78.0081
+Pomegranate,Uttar Pradesh,Agra,Agra,57,60,59,2021-05-22,2021,5,Zaid,27.1767,78.0081
+Garlic,Uttar Pradesh,Agra,Agra,60,62,61,2021-03-16,2021,3,Rabi,27.1767,78.0081
+Apple,Uttar Pradesh,Agra,Agra,63,65,64,2021-03-17,2021,3,Rabi,27.1767,78.0081
+Arhar+Dal(Tur+Dal),Uttar Pradesh,Agra,Agra,95,98,96,2021-03-01,2021,3,Rabi,27.1767,78.0081
+Arhar+Dal(Tur+Dal),Uttar Pradesh,Agra,Agra,95,98,96,2021-04-03,2021,4,Zaid,27.1767,78.0081
+Apple,Uttar Pradesh,Agra,Agra,77,80,78,2021-04-29,2021,4,Zaid,27.1767,78.0081
+Mustard,Uttar Pradesh,Agra,Agra,71,73,72,2021-09-30,2021,9,Kharif,27.1767,78.0081
+Lemon,Uttar Pradesh,Agra,Agra,63,65,64,2021-04-29,2021,4,Zaid,27.1767,78.0081
+Mustard,Uttar Pradesh,Agra,Agra,63,65,64,2021-04-29,2021,4,Zaid,27.1767,78.0081
+Pomegranate,Uttar Pradesh,Agra,Agra,55,58,57,2021-04-29,2021,4,Zaid,27.1767,78.0081
+Arhar+Dal(Tur+Dal),Uttar Pradesh,Agra,Agra,96,98,96,2021-03-25,2021,3,Rabi,27.1767,78.0081
+Masur+Dal,Uttar Pradesh,Agra,Agra,88,91,90,2021-05-22,2021,5,Zaid,27.1767,78.0081
+Garlic,Uttar Pradesh,Agra,Agra,57,60,59,2021-04-19,2021,4,Zaid,27.1767,78.0081
+Arhar+Dal(Tur+Dal),Uttar Pradesh,Agra,Agra,95,98,97,2021-03-05,2021,3,Rabi,27.1767,78.0081
+Apple,Uttar Pradesh,Agra,Agra,89,92,90,2021-05-31,2021,5,Zaid,27.1767,78.0081
+Bottle+gourd,Uttar Pradesh,Mirzapur,Ahirora,2,4,3,2019-08-19,2019,8,Kharif,25.1449,82.5706
+Bottle+gourd,Uttar Pradesh,Mirzapur,Ahirora,2,3,3,2019-09-03,2019,9,Kharif,25.1449,82.5706
+Bottle+gourd,Uttar Pradesh,Mirzapur,Ahirora,3,4,3,2019-09-27,2019,9,Kharif,25.1449,82.5706
+Raddish,Uttar Pradesh,Mirzapur,Ahirora,2,3,3,2019-12-17,2019,12,Rabi,25.1449,82.5706
+Tomato,Uttar Pradesh,Mirzapur,Ahirora,1,2,2,2021-03-08,2021,3,Rabi,25.1449,82.5706
+Cauliflower,Uttar Pradesh,Mirzapur,Ahirora,1,1,1,2021-03-08,2021,3,Rabi,25.1449,82.5706
+Ginger(Green),Gujarat,Ahmedabad,Ahmedabad,70,130,110,2019-05-22,2019,5,Zaid,23.0225,72.5714
+Ginger(Green),Gujarat,Ahmedabad,Ahmedabad,85,120,105,2019-05-23,2019,5,Zaid,23.0225,72.5714
+Yam+(Ratalu),Gujarat,Ahmedabad,Ahmedabad,60,65,63,2019-05-24,2019,5,Zaid,23.0225,72.5714
+Ginger(Green),Gujarat,Ahmedabad,Ahmedabad,80,110,100,2019-05-24,2019,5,Zaid,23.0225,72.5714
+Ginger(Green),Gujarat,Ahmedabad,Ahmedabad,85,115,102,2019-05-27,2019,5,Zaid,23.0225,72.5714
+Peas+Wet,Gujarat,Ahmedabad,Ahmedabad,50,70,61,2019-05-27,2019,5,Zaid,23.0225,72.5714
+Yam+(Ratalu),Gujarat,Ahmedabad,Ahmedabad,45,65,56,2019-05-27,2019,5,Zaid,23.0225,72.5714
+Ginger(Green),Gujarat,Ahmedabad,Ahmedabad,80,97,90,2019-05-29,2019,5,Zaid,23.0225,72.5714
+Ginger(Green),Gujarat,Ahmedabad,Ahmedabad,70,120,96,2019-06-10,2019,6,Kharif,23.0225,72.5714
+Peas+Wet,Gujarat,Ahmedabad,Ahmedabad,40,70,56,2019-06-10,2019,6,Kharif,23.0225,72.5714
+Ginger(Green),Gujarat,Ahmedabad,Ahmedabad,90,135,113,2019-06-13,2019,6,Kharif,23.0225,72.5714
+Peas+Wet,Gujarat,Ahmedabad,Ahmedabad,60,70,66,2019-05-28,2019,5,Zaid,23.0225,72.5714
+Ginger(Green),Gujarat,Ahmedabad,Ahmedabad,70,130,102,2019-06-11,2019,6,Kharif,23.0225,72.5714
+Ginger(Green),Gujarat,Ahmedabad,Ahmedabad,90,95,93,2019-06-12,2019,6,Kharif,23.0225,72.5714
+Ginger(Green),Gujarat,Ahmedabad,Ahmedabad,90,125,108,2019-06-18,2019,6,Kharif,23.0225,72.5714
+Peas+Wet,Gujarat,Ahmedabad,Ahmedabad,50,60,56,2019-06-15,2019,6,Kharif,23.0225,72.5714
+Ginger(Green),Gujarat,Ahmedabad,Ahmedabad,90,100,96,2019-07-03,2019,7,Kharif,23.0225,72.5714
+Ginger(Green),Gujarat,Ahmedabad,Ahmedabad,80,120,101,2019-06-25,2019,6,Kharif,23.0225,72.5714
+Ginger(Green),Gujarat,Ahmedabad,Ahmedabad,85,130,108,2019-06-21,2019,6,Kharif,23.0225,72.5714
+Ginger(Green),Gujarat,Ahmedabad,Ahmedabad,90,120,110,2019-06-19,2019,6,Kharif,23.0225,72.5714
+Ginger(Green),Gujarat,Ahmedabad,Ahmedabad,85,120,103,2019-06-24,2019,6,Kharif,23.0225,72.5714
+Peas+Wet,Gujarat,Ahmedabad,Ahmedabad,45,70,59,2019-06-24,2019,6,Kharif,23.0225,72.5714
+Groundnut+pods+(raw),Gujarat,Ahmedabad,Ahmedabad,70,80,76,2019-07-06,2019,7,Kharif,23.0225,72.5714
+Ginger(Green),Gujarat,Ahmedabad,Ahmedabad,90,120,106,2019-06-26,2019,6,Kharif,23.0225,72.5714
+Ginger(Green),Gujarat,Ahmedabad,Ahmedabad,87,120,105,2019-06-27,2019,6,Kharif,23.0225,72.5714
+Peas+Wet,Gujarat,Ahmedabad,Ahmedabad,55,75,66,2019-07-03,2019,7,Kharif,23.0225,72.5714
+Ginger(Green),Gujarat,Ahmedabad,Ahmedabad,80,98,90,2019-07-02,2019,7,Kharif,23.0225,72.5714
+Ginger(Green),Gujarat,Ahmedabad,Ahmedabad,60,85,74,2019-07-22,2019,7,Kharif,23.0225,72.5714
+Ginger(Green),Gujarat,Ahmedabad,Ahmedabad,95,105,101,2019-07-08,2019,7,Kharif,23.0225,72.5714
+Ginger(Green),Gujarat,Ahmedabad,Ahmedabad,85,95,91,2019-07-24,2019,7,Kharif,23.0225,72.5714
+Groundnut+pods+(raw),Gujarat,Ahmedabad,Ahmedabad,50,60,56,2019-06-28,2019,6,Kharif,23.0225,72.5714
+Ginger(Green),Gujarat,Ahmedabad,Ahmedabad,95,105,102,2019-07-05,2019,7,Kharif,23.0225,72.5714
+Groundnut+pods+(raw),Gujarat,Ahmedabad,Ahmedabad,70,75,73,2019-07-05,2019,7,Kharif,23.0225,72.5714
+Peas+Wet,Gujarat,Ahmedabad,Ahmedabad,70,85,80,2019-07-06,2019,7,Kharif,23.0225,72.5714
+Peas+Wet,Gujarat,Ahmedabad,Ahmedabad,60,80,71,2019-07-05,2019,7,Kharif,23.0225,72.5714
+Ginger(Green),Gujarat,Ahmedabad,Ahmedabad,95,105,100,2019-07-06,2019,7,Kharif,23.0225,72.5714
+Peas+Wet,Gujarat,Ahmedabad,Ahmedabad,60,100,81,2019-07-10,2019,7,Kharif,23.0225,72.5714
+Ginger(Green),Gujarat,Ahmedabad,Ahmedabad,90,102,97,2019-07-18,2019,7,Kharif,23.0225,72.5714
+Ginger(Green),Gujarat,Ahmedabad,Ahmedabad,90,105,99,2019-07-10,2019,7,Kharif,23.0225,72.5714
+Peas+Wet,Gujarat,Ahmedabad,Ahmedabad,70,100,86,2019-07-18,2019,7,Kharif,23.0225,72.5714
+Peas+Wet,Gujarat,Ahmedabad,Ahmedabad,70,80,76,2019-07-31,2019,7,Kharif,23.0225,72.5714
+Yam+(Ratalu),Gujarat,Ahmedabad,Ahmedabad,60,70,66,2019-07-18,2019,7,Kharif,23.0225,72.5714
+Guar,Gujarat,Ahmedabad,Ahmedabad,30,75,56,2019-08-05,2019,8,Kharif,23.0225,72.5714
+Yam+(Ratalu),Gujarat,Ahmedabad,Ahmedabad,45,70,59,2019-07-06,2019,7,Kharif,23.0225,72.5714
+Peas+Wet,Gujarat,Ahmedabad,Ahmedabad,75,110,93,2019-07-08,2019,7,Kharif,23.0225,72.5714
+Ginger(Green),Gujarat,Ahmedabad,Ahmedabad,80,100,95,2019-07-20,2019,7,Kharif,23.0225,72.5714
+Ginger(Green),Gujarat,Ahmedabad,Ahmedabad,75,90,84,2019-08-09,2019,8,Kharif,23.0225,72.5714
+Groundnut+pods+(raw),Gujarat,Ahmedabad,Ahmedabad,65,70,69,2019-07-08,2019,7,Kharif,23.0225,72.5714
+Peas+Wet,Gujarat,Ahmedabad,Ahmedabad,25,90,75,2019-07-09,2019,7,Kharif,23.0225,72.5714
+Peas+Wet,Gujarat,Ahmedabad,Ahmedabad,90,100,96,2019-08-08,2019,8,Kharif,23.0225,72.5714
+Peas+Wet,Gujarat,Ahmedabad,Ahmedabad,35,90,80,2019-07-25,2019,7,Kharif,23.0225,72.5714
+Ginger(Green),Gujarat,Ahmedabad,Ahmedabad,95,100,99,2019-07-09,2019,7,Kharif,23.0225,72.5714
+Peas+Wet,Gujarat,Ahmedabad,Ahmedabad,75,85,81,2019-08-09,2019,8,Kharif,23.0225,72.5714
+Peas+Wet,Gujarat,Ahmedabad,Ahmedabad,80,100,90,2019-07-20,2019,7,Kharif,23.0225,72.5714
+Ginger(Green),Gujarat,Ahmedabad,Ahmedabad,50,80,66,2019-08-22,2019,8,Kharif,23.0225,72.5714
+Groundnut+pods+(raw),Gujarat,Ahmedabad,Ahmedabad,65,70,68,2019-07-26,2019,7,Kharif,23.0225,72.5714
+Ginger(Green),Gujarat,Ahmedabad,Ahmedabad,80,90,86,2019-07-23,2019,7,Kharif,23.0225,72.5714
+Groundnut+pods+(raw),Gujarat,Ahmedabad,Ahmedabad,60,65,63,2019-07-23,2019,7,Kharif,23.0225,72.5714
+Peas+Wet,Gujarat,Ahmedabad,Ahmedabad,40,90,70,2019-07-26,2019,7,Kharif,23.0225,72.5714
+Peas+Wet,Gujarat,Ahmedabad,Ahmedabad,90,110,101,2019-07-23,2019,7,Kharif,23.0225,72.5714
+Peas+Wet,Gujarat,Ahmedabad,Ahmedabad,70,90,81,2019-08-01,2019,8,Kharif,23.0225,72.5714
+Peas+Wet,Gujarat,Ahmedabad,Ahmedabad,80,90,86,2019-07-29,2019,7,Kharif,23.0225,72.5714
+Guar,Gujarat,Ahmedabad,Ahmedabad,35,75,57,2019-08-30,2019,8,Kharif,23.0225,72.5714
+Guar,Gujarat,Ahmedabad,Ahmedabad,30,70,56,2019-08-31,2019,8,Kharif,23.0225,72.5714
+Ginger(Green),Gujarat,Ahmedabad,Ahmedabad,80,100,91,2019-08-10,2019,8,Kharif,23.0225,72.5714
+Ginger(Green),Gujarat,Ahmedabad,Ahmedabad,90,110,93,2019-08-07,2019,8,Kharif,23.0225,72.5714
+Groundnut+pods+(raw),Gujarat,Ahmedabad,Ahmedabad,40,80,61,2019-08-10,2019,8,Kharif,23.0225,72.5714
+Peas+Wet,Gujarat,Ahmedabad,Ahmedabad,50,80,68,2019-08-07,2019,8,Kharif,23.0225,72.5714
+Peas+Wet,Gujarat,Ahmedabad,Ahmedabad,80,110,96,2019-07-24,2019,7,Kharif,23.0225,72.5714
+Peas+Wet,Gujarat,Ahmedabad,Ahmedabad,80,85,83,2019-07-30,2019,7,Kharif,23.0225,72.5714
+Ginger(Green),Gujarat,Ahmedabad,Ahmedabad,40,70,56,2019-08-16,2019,8,Kharif,23.0225,72.5714
+Ginger(Green),Gujarat,Ahmedabad,Ahmedabad,65,85,76,2019-08-20,2019,8,Kharif,23.0225,72.5714
+Guar,Gujarat,Ahmedabad,Ahmedabad,50,100,76,2019-08-20,2019,8,Kharif,23.0225,72.5714
+Peas+Wet,Gujarat,Ahmedabad,Ahmedabad,50,80,66,2019-08-20,2019,8,Kharif,23.0225,72.5714
+Ginger(Green),Gujarat,Ahmedabad,Ahmedabad,50,90,71,2019-08-14,2019,8,Kharif,23.0225,72.5714
+Peas+Wet,Gujarat,Ahmedabad,Ahmedabad,50,80,70,2019-08-03,2019,8,Kharif,23.0225,72.5714
+Ginger(Green),Gujarat,Ahmedabad,Ahmedabad,60,85,75,2019-08-21,2019,8,Kharif,23.0225,72.5714
+Peas+Wet,Gujarat,Ahmedabad,Ahmedabad,30,70,56,2019-08-30,2019,8,Kharif,23.0225,72.5714
+Ginger(Green),Gujarat,Ahmedabad,Ahmedabad,50,70,61,2019-08-26,2019,8,Kharif,23.0225,72.5714
+Guar,Gujarat,Ahmedabad,Ahmedabad,50,90,73,2019-10-01,2019,10,Kharif,23.0225,72.5714
+Peas+Wet,Gujarat,Ahmedabad,Ahmedabad,70,120,96,2019-10-11,2019,10,Kharif,23.0225,72.5714
+Peas+Wet,Gujarat,Ahmedabad,Ahmedabad,55,80,70,2019-08-27,2019,8,Kharif,23.0225,72.5714
+Peas+Wet,Gujarat,Ahmedabad,Ahmedabad,60,100,85,2019-09-14,2019,9,Kharif,23.0225,72.5714
+Peas+Wet,Gujarat,Ahmedabad,Ahmedabad,60,85,74,2019-08-26,2019,8,Kharif,23.0225,72.5714
+Groundnut+pods+(raw),Gujarat,Ahmedabad,Ahmedabad,65,75,71,2019-08-13,2019,8,Kharif,23.0225,72.5714
+Guar,Gujarat,Ahmedabad,Ahmedabad,30,85,59,2019-08-13,2019,8,Kharif,23.0225,72.5714
+Ginger(Green),Gujarat,Ahmedabad,Ahmedabad,50,75,64,2019-08-23,2019,8,Kharif,23.0225,72.5714
+Ginger(Green),Gujarat,Ahmedabad,Ahmedabad,60,70,66,2019-09-03,2019,9,Kharif,23.0225,72.5714
+Groundnut+pods+(raw),Gujarat,Ahmedabad,Ahmedabad,60,70,68,2019-08-23,2019,8,Kharif,23.0225,72.5714
+Guar,Gujarat,Ahmedabad,Ahmedabad,50,80,68,2019-08-23,2019,8,Kharif,23.0225,72.5714
+Guar,Gujarat,Ahmedabad,Ahmedabad,45,70,62,2019-09-20,2019,9,Kharif,23.0225,72.5714
+Peas+Wet,Gujarat,Ahmedabad,Ahmedabad,50,70,63,2019-08-28,2019,8,Kharif,23.0225,72.5714
+Drumstick,Gujarat,Ahmedabad,Ahmedabad,40,110,90,2019-11-15,2019,11,Rabi,23.0225,72.5714
+Peas+Wet,Gujarat,Ahmedabad,Ahmedabad,60,85,75,2019-11-05,2019,11,Rabi,23.0225,72.5714
+Guar,Gujarat,Ahmedabad,Ahmedabad,40,90,70,2019-10-09,2019,10,Kharif,23.0225,72.5714
+Ginger(Green),Gujarat,Ahmedabad,Ahmedabad,53,58,56,2019-09-26,2019,9,Kharif,23.0225,72.5714
+Drumstick,Gujarat,Ahmedabad,Ahmedabad,40,100,71,2019-11-18,2019,11,Rabi,23.0225,72.5714
+Guar,Gujarat,Ahmedabad,Ahmedabad,50,90,63,2019-10-18,2019,10,Kharif,23.0225,72.5714
+Peas+Wet,Gujarat,Ahmedabad,Ahmedabad,150,160,155,2019-09-28,2019,9,Kharif,23.0225,72.5714
+Ginger(Green),Gujarat,Ahmedabad,Ahmedabad,65,80,73,2019-09-05,2019,9,Kharif,23.0225,72.5714
+Ginger(Green),Gujarat,Ahmedabad,Ahmedabad,50,65,59,2019-10-03,2019,10,Kharif,23.0225,72.5714
+Guar,Gujarat,Ahmedabad,Ahmedabad,50,90,75,2019-10-03,2019,10,Kharif,23.0225,72.5714
+Guar,Gujarat,Ahmedabad,Ahmedabad,50,80,66,2019-10-19,2019,10,Kharif,23.0225,72.5714
+Peas+Wet,Gujarat,Ahmedabad,Ahmedabad,140,160,155,2019-09-30,2019,9,Kharif,23.0225,72.5714
+Guar,Gujarat,Ahmedabad,Ahmedabad,60,90,80,2019-10-04,2019,10,Kharif,23.0225,72.5714
+Peas+Wet,Gujarat,Ahmedabad,Ahmedabad,80,100,95,2019-09-13,2019,9,Kharif,23.0225,72.5714
+Guar,Gujarat,Ahmedabad,Ahmedabad,50,95,75,2019-10-16,2019,10,Kharif,23.0225,72.5714
+Peas+Wet,Gujarat,Ahmedabad,Ahmedabad,70,110,93,2019-09-11,2019,9,Kharif,23.0225,72.5714
+Drumstick,Gujarat,Ahmedabad,Ahmedabad,70,90,81,2019-12-05,2019,12,Rabi,23.0225,72.5714
+Carrot,Gujarat,Ahmedabad,Ahmedabad,50,62,57,2019-10-21,2019,10,Kharif,23.0225,72.5714
+Ginger(Green),Gujarat,Ahmedabad,Ahmedabad,55,61,59,2019-12-05,2019,12,Rabi,23.0225,72.5714
+Ginger(Green),Gujarat,Ahmedabad,Ahmedabad,55,65,61,2019-09-12,2019,9,Kharif,23.0225,72.5714
+Ginger(Green),Gujarat,Ahmedabad,Ahmedabad,57,60,59,2019-12-28,2019,12,Rabi,23.0225,72.5714
+Peas+Wet,Gujarat,Ahmedabad,Ahmedabad,80,95,90,2019-11-09,2019,11,Rabi,23.0225,72.5714
+Ginger(Green),Gujarat,Ahmedabad,Ahmedabad,57,75,67,2019-10-11,2019,10,Kharif,23.0225,72.5714
+Guar,Gujarat,Ahmedabad,Ahmedabad,60,90,77,2019-10-11,2019,10,Kharif,23.0225,72.5714
+Ginger(Green),Gujarat,Ahmedabad,Ahmedabad,35,75,56,2019-09-11,2019,9,Kharif,23.0225,72.5714
+Peas+Wet,Gujarat,Ahmedabad,Ahmedabad,130,140,135,2019-09-24,2019,9,Kharif,23.0225,72.5714
+Drumstick,Gujarat,Ahmedabad,Ahmedabad,30,90,70,2019-12-10,2019,12,Rabi,23.0225,72.5714
+Guar,Gujarat,Ahmedabad,Ahmedabad,45,65,56,2019-09-25,2019,9,Kharif,23.0225,72.5714
+Ginger(Green),Gujarat,Ahmedabad,Ahmedabad,50,64,61,2019-10-18,2019,10,Kharif,23.0225,72.5714
+Peas+Wet,Gujarat,Ahmedabad,Ahmedabad,50,90,72,2019-09-17,2019,9,Kharif,23.0225,72.5714
+Peas+Wet,Gujarat,Ahmedabad,Ahmedabad,140,150,145,2019-09-25,2019,9,Kharif,23.0225,72.5714
+Peas+Wet,Gujarat,Ahmedabad,Ahmedabad,50,100,76,2019-10-18,2019,10,Kharif,23.0225,72.5714
+Ginger(Green),Gujarat,Ahmedabad,Ahmedabad,65,75,71,2019-10-26,2019,10,Kharif,23.0225,72.5714
+Peas+Wet,Gujarat,Ahmedabad,Ahmedabad,100,120,115,2019-09-21,2019,9,Kharif,23.0225,72.5714
+Ginger(Green),Gujarat,Ahmedabad,Ahmedabad,50,60,56,2019-09-17,2019,9,Kharif,23.0225,72.5714
+Peas+Wet,Gujarat,Ahmedabad,Ahmedabad,90,95,93,2019-09-20,2019,9,Kharif,23.0225,72.5714
+Peas+Wet,Gujarat,Ahmedabad,Ahmedabad,90,110,105,2019-09-19,2019,9,Kharif,23.0225,72.5714
+Peas+Wet,Gujarat,Ahmedabad,Ahmedabad,40,105,90,2019-10-16,2019,10,Kharif,23.0225,72.5714
+Drumstick,Gujarat,Ahmedabad,Ahmedabad,40,110,85,2019-12-19,2019,12,Rabi,23.0225,72.5714
+Ginger(Green),Gujarat,Ahmedabad,Ahmedabad,58,62,61,2019-10-24,2019,10,Kharif,23.0225,72.5714
+Peas+Wet,Gujarat,Ahmedabad,Ahmedabad,100,130,116,2019-09-23,2019,9,Kharif,23.0225,72.5714
+Guar,Gujarat,Ahmedabad,Ahmedabad,30,90,61,2019-10-12,2019,10,Kharif,23.0225,72.5714
+Peas+Wet,Gujarat,Ahmedabad,Ahmedabad,100,150,130,2019-10-12,2019,10,Kharif,23.0225,72.5714
+Ginger(Green),Gujarat,Ahmedabad,Ahmedabad,60,68,64,2019-10-16,2019,10,Kharif,23.0225,72.5714
+Guar,Gujarat,Ahmedabad,Ahmedabad,45,75,62,2019-09-30,2019,9,Kharif,23.0225,72.5714
+Peas+Wet,Gujarat,Ahmedabad,Ahmedabad,50,90,75,2019-10-17,2019,10,Kharif,23.0225,72.5714
+Carrot,Gujarat,Ahmedabad,Ahmedabad,55,70,63,2019-10-23,2019,10,Kharif,23.0225,72.5714
+Peas+Wet,Gujarat,Ahmedabad,Ahmedabad,180,190,185,2019-10-01,2019,10,Kharif,23.0225,72.5714
+Drumstick,Gujarat,Ahmedabad,Ahmedabad,60,70,66,2019-10-26,2019,10,Kharif,23.0225,72.5714
+Ginger(Green),Gujarat,Ahmedabad,Ahmedabad,60,65,63,2019-11-06,2019,11,Rabi,23.0225,72.5714
+Peas+Wet,Gujarat,Ahmedabad,Ahmedabad,60,90,80,2019-10-09,2019,10,Kharif,23.0225,72.5714
+Drumstick,Gujarat,Ahmedabad,Ahmedabad,40,80,70,2019-11-20,2019,11,Rabi,23.0225,72.5714
+Ginger(Green),Gujarat,Ahmedabad,Ahmedabad,55,58,57,2019-10-10,2019,10,Kharif,23.0225,72.5714
+Carrot,Gujarat,Ahmedabad,Ahmedabad,50,70,61,2019-10-22,2019,10,Kharif,23.0225,72.5714
+Peas+Wet,Gujarat,Ahmedabad,Ahmedabad,70,120,100,2019-10-10,2019,10,Kharif,23.0225,72.5714
+Peas+Wet,Gujarat,Ahmedabad,Ahmedabad,80,100,91,2019-10-19,2019,10,Kharif,23.0225,72.5714
+Drumstick,Gujarat,Ahmedabad,Ahmedabad,40,70,56,2019-10-24,2019,10,Kharif,23.0225,72.5714
+Peas+Wet,Gujarat,Ahmedabad,Ahmedabad,30,90,62,2019-10-23,2019,10,Kharif,23.0225,72.5714
+Peas+Wet,Gujarat,Ahmedabad,Ahmedabad,160,180,175,2019-10-04,2019,10,Kharif,23.0225,72.5714
+Peas+Wet,Gujarat,Ahmedabad,Ahmedabad,190,200,195,2019-10-03,2019,10,Kharif,23.0225,72.5714
+Guar,Gujarat,Ahmedabad,Ahmedabad,50,90,72,2019-10-17,2019,10,Kharif,23.0225,72.5714
+Peas+Wet,Gujarat,Ahmedabad,Ahmedabad,50,90,71,2019-10-26,2019,10,Kharif,23.0225,72.5714
+Yam+(Ratalu),Gujarat,Ahmedabad,Ahmedabad,50,60,56,2019-11-11,2019,11,Rabi,23.0225,72.5714
+Peas+Wet,Gujarat,Ahmedabad,Ahmedabad,70,95,85,2019-11-02,2019,11,Rabi,23.0225,72.5714
+Drumstick,Gujarat,Ahmedabad,Ahmedabad,100,120,110,2019-12-17,2019,12,Rabi,23.0225,72.5714
