@@ -32,18 +32,20 @@ The goal is to transform raw data into **actionable insights** for farmers, trad
 ---
 
 ## 📊 Dashboard Preview
+<img width="2075" height="1200" alt="Indian_ Agri_Market_Intelligence_Project_page-0001" src="https://github.com/user-attachments/assets/afd98f36-3775-4ad3-84b7-9b6280a4208a" />
 
-### 🔹 Overview
-images/dashboard_overview.png
 
 ### 🔹 Price Trends
-images/trend_chart.png
+<img width="220" height="113" alt="trends chart" src="https://github.com/user-attachments/assets/d46ade3c-0772-4374-b5b4-e9f4e86fd547" />
+
 
 ### 🔹 Seasonal Analysis
-images/seasonal_chart.png
+<img width="186" height="131" alt="seasonal analysis" src="https://github.com/user-attachments/assets/cbcb38c9-336d-40e7-8378-30c06bd3bac7" />
+
 
 ### 🔹 Volatility Heatmap
-images/volatility_heatmap.png
+<img width="444" height="82" alt="Screenshot 2026-05-29 225831" src="https://github.com/user-attachments/assets/7de40ff5-dca0-4593-9431-7124fe7fd751" />
+
 
 ## 💡 Recommendations
 - Improve real-time Mandi price transparency  
@@ -59,7 +61,7 @@ images/volatility_heatmap.png
 
 ---
 ## 👤 Author
-**[Your Name]**  
+**Tavershima Dzenda**  
 Data Analytics Intern  
 
 ---
